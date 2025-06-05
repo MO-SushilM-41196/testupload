@@ -1,0 +1,510 @@
+{
+    "message": "",
+    "code": 200,
+    "data": [
+        {
+            "co_code": "26568",
+            "lname": "BSE SmallCap",
+            "scrip_code": "999931",
+            "exchange_code": "1",
+            "index_id": "BSE SMLCAP"
+        },
+        {
+            "co_code": "27358",
+            "lname": "BSE Dollex 100",
+            "scrip_code": "999919",
+            "exchange_code": "1",
+            "index_id": "BSE DOL100"
+        },
+        {
+            "co_code": "65969",
+            "lname": "BSE Telecommunication",
+            "scrip_code": "999945",
+            "exchange_code": "1",
+            "index_id": "TELCOM"
+        },
+        {
+            "co_code": "65970",
+            "lname": "BSE Utilities",
+            "scrip_code": "999946",
+            "exchange_code": "1",
+            "index_id": "UTILS"
+        },
+        {
+            "co_code": "20558",
+            "lname": "BSE Sensex",
+            "scrip_code": "999901",
+            "exchange_code": "1",
+            "index_id": "SENSEX"
+        },
+        {
+            "co_code": "20559",
+            "lname": "Nifty 50",
+            "scrip_code": "26000",
+            "exchange_code": "0",
+            "index_id": "NIFTY 50"
+        },
+        {
+            "co_code": "21560",
+            "lname": "BSE Dollex 200",
+            "scrip_code": "999920",
+            "exchange_code": "1",
+            "index_id": "BSE DOL200"
+        },
+        {
+            "co_code": "21552",
+            "lname": "BSE 500",
+            "scrip_code": "999904",
+            "exchange_code": "1",
+            "index_id": "BSE 500"
+        },
+        {
+            "co_code": "21553",
+            "lname": "BSE Information Technology",
+            "scrip_code": "999934",
+            "exchange_code": "1",
+            "index_id": "BSE IT"
+        },
+        {
+            "co_code": "21554",
+            "lname": "BSE Fast Moving Consumer Goods",
+            "scrip_code": "999932",
+            "exchange_code": "1",
+            "index_id": "BSE FMCG"
+        },
+        {
+            "co_code": "21555",
+            "lname": "BSE Capital Goods",
+            "scrip_code": "999907",
+            "exchange_code": "1",
+            "index_id": "BSE CAPGOOD"
+        },
+        {
+            "co_code": "21556",
+            "lname": "BSE Consumer Durables",
+            "scrip_code": "999908",
+            "exchange_code": "1",
+            "index_id": "BSE CONSDUR"
+        },
+        {
+            "co_code": "21557",
+            "lname": "BSE Healthcare",
+            "scrip_code": "999933",
+            "exchange_code": "1",
+            "index_id": "BSE HEALTHC"
+        },
+        {
+            "co_code": "21558",
+            "lname": "BSE 100",
+            "scrip_code": "999902",
+            "exchange_code": "1",
+            "index_id": "BSE100"
+        },
+        {
+            "co_code": "21559",
+            "lname": "BSE 200",
+            "scrip_code": "999903",
+            "exchange_code": "1",
+            "index_id": "BSE 200"
+        },
+        {
+            "co_code": "21961",
+            "lname": "BSE PSU",
+            "scrip_code": "999910",
+            "exchange_code": "1",
+            "index_id": "BSE PSU"
+        },
+        {
+            "co_code": "21970",
+            "lname": "BSE Teck",
+            "scrip_code": "999911",
+            "exchange_code": "1",
+            "index_id": "BSE TECK"
+        },
+        {
+            "co_code": "22113",
+            "lname": "Nifty Next 50",
+            "scrip_code": "26013",
+            "exchange_code": "0",
+            "index_id": "NIFTY NEXT 50"
+        },
+        {
+            "co_code": "22115",
+            "lname": "Nifty 500",
+            "scrip_code": "26003",
+            "exchange_code": "0",
+            "index_id": "NIFTY 500"
+        },
+        {
+            "co_code": "22205",
+            "lname": "BSE Dollex 30",
+            "scrip_code": "999918",
+            "exchange_code": "1",
+            "index_id": "BSE DOL30"
+        },
+        {
+            "co_code": "23998",
+            "lname": "BSE BANKEX",
+            "scrip_code": "999912",
+            "exchange_code": "1",
+            "index_id": "BSE BANKEX"
+        },
+        {
+            "co_code": "24484",
+            "lname": "Nifty IT",
+            "scrip_code": "26008",
+            "exchange_code": "0",
+            "index_id": "NIFTY IT"
+        },
+        {
+            "co_code": "25112",
+            "lname": "BSE Auto",
+            "scrip_code": "999913",
+            "exchange_code": "1",
+            "index_id": "BSE AUTO"
+        },
+        {
+            "co_code": "25113",
+            "lname": "BSE Metal",
+            "scrip_code": "999914",
+            "exchange_code": "1",
+            "index_id": "BSE METAL"
+        },
+        {
+            "co_code": "25114",
+            "lname": "BSE Oil & Gas",
+            "scrip_code": "999915",
+            "exchange_code": "1",
+            "index_id": "BSE OIL&GAS"
+        },
+        {
+            "co_code": "26567",
+            "lname": "BSE MidCap",
+            "scrip_code": "999930",
+            "exchange_code": "1",
+            "index_id": "BSE MIDCAP"
+        },
+        {
+            "co_code": "26753",
+            "lname": "Nifty Bank",
+            "scrip_code": "26009",
+            "exchange_code": "0",
+            "index_id": "NIFTY BANK"
+        },
+        {
+            "co_code": "26768",
+            "lname": "Nifty Energy",
+            "scrip_code": "26054",
+            "exchange_code": "0",
+            "index_id": "NIFTY ENERGY"
+        },
+        {
+            "co_code": "26769",
+            "lname": "Nifty Pharma",
+            "scrip_code": "26057",
+            "exchange_code": "0",
+            "index_id": "NIFTY PHARMA"
+        },
+        {
+            "co_code": "26771",
+            "lname": "Nifty Midcap 100",
+            "scrip_code": "26010",
+            "exchange_code": "0",
+            "index_id": "NIFTY MIDCAP 100"
+        },
+        {
+            "co_code": "27176",
+            "lname": "Nifty 100",
+            "scrip_code": "26012",
+            "exchange_code": "0",
+            "index_id": "NIFTY 100"
+        },
+        {
+            "co_code": "28155",
+            "lname": "BSE Realty",
+            "scrip_code": "999921",
+            "exchange_code": "1",
+            "index_id": "BSE REALTY"
+        },
+        {
+            "co_code": "28203",
+            "lname": "Nifty Infrastructure",
+            "scrip_code": "26019",
+            "exchange_code": "0",
+            "index_id": "NIFTY INFRA"
+        },
+        {
+            "co_code": "28253",
+            "lname": "Nifty Realty",
+            "scrip_code": "26052",
+            "exchange_code": "0",
+            "index_id": "NIFTY REALTY"
+        },
+        {
+            "co_code": "28254",
+            "lname": "Nifty PSU Bank",
+            "scrip_code": "26059",
+            "exchange_code": "0",
+            "index_id": "NIFTY PSU BANK"
+        },
+        {
+            "co_code": "28303",
+            "lname": "Nifty Midcap 50",
+            "scrip_code": "26014",
+            "exchange_code": "0",
+            "index_id": "NIFTY MIDCAP 50"
+        },
+        {
+            "co_code": "28435",
+            "lname": "BSE Power",
+            "scrip_code": "999922",
+            "exchange_code": "1",
+            "index_id": "BSE POWER"
+        },
+        {
+            "co_code": "28647",
+            "lname": "Nifty MNC",
+            "scrip_code": "26056",
+            "exchange_code": "0",
+            "index_id": "NIFTY MNC"
+        },
+        {
+            "co_code": "29878",
+            "lname": "India VIX",
+            "scrip_code": "26051",
+            "exchange_code": "0",
+            "index_id": "INDIA VIX"
+        },
+        {
+            "co_code": "30183",
+            "lname": "Nifty FMCG",
+            "scrip_code": "26055",
+            "exchange_code": "0",
+            "index_id": "NIFTY FMCG"
+        },
+        {
+            "co_code": "30186",
+            "lname": "Nifty PSE",
+            "scrip_code": "26024",
+            "exchange_code": "0",
+            "index_id": "NIFTY PSE"
+        },
+        {
+            "co_code": "33917",
+            "lname": "Nifty Services Sector",
+            "scrip_code": "26060",
+            "exchange_code": "0",
+            "index_id": "NIFTY SERV SECTOR"
+        },
+        {
+            "co_code": "35223",
+            "lname": "BSE IPO",
+            "scrip_code": "999923",
+            "exchange_code": "1",
+            "index_id": "BSE IPO"
+        },
+        {
+            "co_code": "41359",
+            "lname": "Nifty Media",
+            "scrip_code": "26063",
+            "exchange_code": "0",
+            "index_id": "NIFTY MEDIA"
+        },
+        {
+            "co_code": "40939",
+            "lname": "Nifty Smallcap 100",
+            "scrip_code": "26064",
+            "exchange_code": "0",
+            "index_id": "NIFTY SMLCAP 100"
+        },
+        {
+            "co_code": "41327",
+            "lname": "Nifty India Consumption",
+            "scrip_code": "26067",
+            "exchange_code": "0",
+            "index_id": "NIFTY CONSUMPTION"
+        },
+        {
+            "co_code": "41328",
+            "lname": "Nifty Auto",
+            "scrip_code": "26061",
+            "exchange_code": "0",
+            "index_id": "NIFTY AUTO"
+        },
+        {
+            "co_code": "41329",
+            "lname": "Nifty Metal",
+            "scrip_code": "26062",
+            "exchange_code": "0",
+            "index_id": "NIFTY METAL"
+        },
+        {
+            "co_code": "41356",
+            "lname": "Nifty 200",
+            "scrip_code": "26065",
+            "exchange_code": "0",
+            "index_id": "NIFTY 200"
+        },
+        {
+            "co_code": "41383",
+            "lname": "Nifty Commodities",
+            "scrip_code": "26066",
+            "exchange_code": "0",
+            "index_id": "NIFTY COMMODITIES"
+        },
+        {
+            "co_code": "41384",
+            "lname": "Nifty Financial Services",
+            "scrip_code": "26037",
+            "exchange_code": "0",
+            "index_id": "NIFTY FIN SERVICE"
+        },
+        {
+            "co_code": "41490",
+            "lname": "Nifty Dividend Opportunities 50",
+            "scrip_code": "26069",
+            "exchange_code": "0",
+            "index_id": "NIFTY DIV OPPS 50"
+        },
+        {
+            "co_code": "41900",
+            "lname": "BSE Greenex",
+            "scrip_code": "999925",
+            "exchange_code": "1",
+            "index_id": "BSE GREENX"
+        },
+        {
+            "co_code": "42924",
+            "lname": "BSE CARBONEX",
+            "scrip_code": "999926",
+            "exchange_code": "1",
+            "index_id": "BSE CARBON"
+        },
+        {
+            "co_code": "42958",
+            "lname": "BSE SME IPO",
+            "scrip_code": "999927",
+            "exchange_code": "1",
+            "index_id": "BSE SMEIPO"
+        },
+        {
+            "co_code": "43706",
+            "lname": "Nifty 100 Liquid 15",
+            "scrip_code": "26070",
+            "exchange_code": "0",
+            "index_id": "NIFTY100 LIQ 15"
+        },
+        {
+            "co_code": "44375",
+            "lname": "Nifty CPSE",
+            "scrip_code": "26027",
+            "exchange_code": "0",
+            "index_id": "NIFTY CPSE"
+        },
+        {
+            "co_code": "45645",
+            "lname": "Nifty Growth Sectors 15",
+            "scrip_code": "26071",
+            "exchange_code": "0",
+            "index_id": "NIFTY GROWSECT 15"
+        },
+        {
+            "co_code": "45646",
+            "lname": "BSE India Infrastructure Index",
+            "scrip_code": "999928",
+            "exchange_code": "1",
+            "index_id": "BSE INFRA"
+        },
+        {
+            "co_code": "51457",
+            "lname": "BSE CPSE",
+            "scrip_code": "999929",
+            "exchange_code": "1",
+            "index_id": "BSE CPSE"
+        },
+        {
+            "co_code": "65968",
+            "lname": "BSE Industrials",
+            "scrip_code": "999941",
+            "exchange_code": "1",
+            "index_id": "INDSTR"
+        },
+        {
+            "co_code": "65960",
+            "lname": "BSE Allcap",
+            "scrip_code": "999936",
+            "exchange_code": "1",
+            "index_id": "ALLCAP"
+        },
+        {
+            "co_code": "65961",
+            "lname": "BSE LargeCap",
+            "scrip_code": "999942",
+            "exchange_code": "1",
+            "index_id": "LRGCAP"
+        },
+        {
+            "co_code": "65966",
+            "lname": "BSE Energy",
+            "scrip_code": "999939",
+            "exchange_code": "1",
+            "index_id": "ENERGY"
+        },
+        {
+            "co_code": "65967",
+            "lname": "BSE Financial Services",
+            "scrip_code": "999940",
+            "exchange_code": "1",
+            "index_id": "FIN"
+        },
+        {
+            "co_code": "66493",
+            "lname": "BSE MidCap Select Index",
+            "scrip_code": "999943",
+            "exchange_code": "1",
+            "index_id": "MIDSEL"
+        },
+        {
+            "co_code": "66494",
+            "lname": "BSE SmallCap Select Index",
+            "scrip_code": "999944",
+            "exchange_code": "1",
+            "index_id": "SMLSEL"
+        },
+        {
+            "co_code": "69548",
+            "lname": "BSE SENSEX 50",
+            "scrip_code": "999947",
+            "exchange_code": "1",
+            "index_id": "BSE SENSEX 50"
+        },
+        {
+            "co_code": "72407",
+            "lname": "Nifty Tata Group 25% Cap",
+            "scrip_code": "26075",
+            "exchange_code": "0",
+            "index_id": "NIFTY TATA 25 CAP"
+        },
+        {
+            "co_code": "75971",
+            "lname": "Nifty Midcap Select",
+            "scrip_code": "26074",
+            "exchange_code": "0",
+            "index_id": "NIFTY MID SELECT"
+        },
+        {
+            "co_code": "78851",
+            "lname": "Nifty MidSmall Healthcare",
+            "scrip_code": "26078",
+            "exchange_code": "0",
+            "index_id": "NIFTY MIDSML HLTH"
+        },
+        {
+            "co_code": "92980",
+            "lname": "Nifty500 Multicap Infrastructure 50:30:20",
+            "scrip_code": "26077",
+            "exchange_code": "0",
+            "index_id": "NIFTY MULTI INFRA"
+        }
+    ]
+}
