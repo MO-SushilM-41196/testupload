@@ -1,0 +1,2742 @@
+{
+    "message": "",
+    "code": 200,
+    "data": [
+        {
+            "co_code": "6437",
+            "issuetype": "Book Building",
+            "lname": "Afcons Infrastructure Ltd",
+            "nse_b_scripcode": "25977",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544280"
+        },
+        {
+            "co_code": "7636",
+            "issuetype": "Book Building",
+            "lname": "Carraro India Ltd",
+            "nse_b_scripcode": "28879",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544320"
+        },
+        {
+            "co_code": "12067",
+            "issuetype": "Book Building",
+            "lname": "Dam Capital Advisors Ltd",
+            "nse_b_scripcode": "28662",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544316"
+        },
+        {
+            "co_code": "12111",
+            "issuetype": "Book Building",
+            "lname": "Hexaware Technologies Ltd",
+            "nse_b_scripcode": "29666",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544362"
+        },
+        {
+            "co_code": "16486",
+            "issuetype": "Book Building",
+            "lname": "Hyundai Motor India Ltd",
+            "nse_b_scripcode": "25844",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544274"
+        },
+        {
+            "co_code": "16966",
+            "issuetype": "Book Building",
+            "lname": "Emcure Pharmaceuticals Ltd",
+            "nse_b_scripcode": "24398",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544210"
+        },
+        {
+            "co_code": "18506",
+            "issuetype": "Book Building",
+            "lname": "Mamata Machinery Ltd",
+            "nse_b_scripcode": "28687",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544318"
+        },
+        {
+            "co_code": "93046",
+            "issuetype": "Book Building - SME",
+            "lname": "Archit Nuwood Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "25030",
+            "issuetype": "Book Building",
+            "lname": "Bansal Wire Industries Ltd",
+            "nse_b_scripcode": "24386",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544209"
+        },
+        {
+            "co_code": "25202",
+            "issuetype": "Book Building",
+            "lname": "Diffusion Engineers Ltd",
+            "nse_b_scripcode": "25673",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544264"
+        },
+        {
+            "co_code": "40541",
+            "issuetype": "Book Building",
+            "lname": "Godavari Biorefineries Ltd",
+            "nse_b_scripcode": "25943",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544279"
+        },
+        {
+            "co_code": "28220",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Citichem India Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544324"
+        },
+        {
+            "co_code": "34369",
+            "issuetype": "Book Building",
+            "lname": "DEE Development Engineers Ltd",
+            "nse_b_scripcode": "24154",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544198"
+        },
+        {
+            "co_code": "34484",
+            "issuetype": "Book Building",
+            "lname": "Akums Drugs & Pharmaceuticals Ltd",
+            "nse_b_scripcode": "24715",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544222"
+        },
+        {
+            "co_code": "36078",
+            "issuetype": "Book Building",
+            "lname": "Stanley Lifestyles Ltd",
+            "nse_b_scripcode": "24226",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544202"
+        },
+        {
+            "co_code": "36109",
+            "issuetype": "Book Building",
+            "lname": "P N Gadgil Jewellers Ltd",
+            "nse_b_scripcode": "25312",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544256"
+        },
+        {
+            "co_code": "38519",
+            "issuetype": "Book Building",
+            "lname": "Indo Farm Equipment Ltd",
+            "nse_b_scripcode": "29027",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544328"
+        },
+        {
+            "co_code": "38615",
+            "issuetype": "Book Building - SME",
+            "lname": "Barflex Polyfilms Ltd",
+            "nse_b_scripcode": "29176",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "38927",
+            "issuetype": "Book Building",
+            "lname": "Niva Bupa Health Insurance Company Ltd",
+            "nse_b_scripcode": "27097",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544286"
+        },
+        {
+            "co_code": "38976",
+            "issuetype": "Book Building",
+            "lname": "Belrise Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "39126",
+            "issuetype": "Book Building - SME",
+            "lname": "Eleganz Interiors Ltd",
+            "nse_b_scripcode": "29595",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "39277",
+            "issuetype": "Book Building - SME",
+            "lname": "Petro Carbon & Chemicals Ltd",
+            "nse_b_scripcode": "24290",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "39324",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Ken Enterprises Ltd",
+            "nse_b_scripcode": "29550",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "39763",
+            "issuetype": "Book Building",
+            "lname": "Waaree Energies Ltd",
+            "nse_b_scripcode": "25907",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544277"
+        },
+        {
+            "co_code": "40098",
+            "issuetype": "Book Building",
+            "lname": "Interarch Building Solutions Ltd",
+            "nse_b_scripcode": "24909",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544232"
+        },
+        {
+            "co_code": "40188",
+            "issuetype": "Book Building",
+            "lname": "Ventive Hospitality Ltd",
+            "nse_b_scripcode": "28847",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544321"
+        },
+        {
+            "co_code": "41221",
+            "issuetype": "Book Building - SME",
+            "lname": "Phoenix Overseas Ltd",
+            "nse_b_scripcode": "25519",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "41547",
+            "issuetype": "Book Building",
+            "lname": "Northern ARC Capital Ltd",
+            "nse_b_scripcode": "25426",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544260"
+        },
+        {
+            "co_code": "45056",
+            "issuetype": "Book Building",
+            "lname": "Manba Finance Ltd",
+            "nse_b_scripcode": "25597",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544262"
+        },
+        {
+            "co_code": "45900",
+            "issuetype": "Book Building - SME",
+            "lname": "Unilex Colour & Chemical Ltd",
+            "nse_b_scripcode": "25633",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "52315",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Neopolitan Pizza and Foods Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544269"
+        },
+        {
+            "co_code": "54766",
+            "issuetype": "Book Building",
+            "lname": "Quality Power Electrical Equipments Ltd",
+            "nse_b_scripcode": "29711",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544367"
+        },
+        {
+            "co_code": "65153",
+            "issuetype": "Book Building - SME",
+            "lname": "Sahaj Solar Ltd",
+            "nse_b_scripcode": "24481",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "67886",
+            "issuetype": "Book Building",
+            "lname": "Bajaj Housing Finance Ltd",
+            "nse_b_scripcode": "25270",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544252"
+        },
+        {
+            "co_code": "67061",
+            "issuetype": "Book Building",
+            "lname": "Transrail Lighting Ltd",
+            "nse_b_scripcode": "28714",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544317"
+        },
+        {
+            "co_code": "68099",
+            "issuetype": "Book Building",
+            "lname": "One Mobikwik Systems Ltd",
+            "nse_b_scripcode": "28046",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544305"
+        },
+        {
+            "co_code": "68121",
+            "issuetype": "Book Building",
+            "lname": "Sai Life Sciences Ltd",
+            "nse_b_scripcode": "27839",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544306"
+        },
+        {
+            "co_code": "68148",
+            "issuetype": "Book Building",
+            "lname": "Swiggy Ltd",
+            "nse_b_scripcode": "27066",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544285"
+        },
+        {
+            "co_code": "68149",
+            "issuetype": "Book Building",
+            "lname": "Brainbees Solutions Ltd",
+            "nse_b_scripcode": "24814",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544226"
+        },
+        {
+            "co_code": "68245",
+            "issuetype": "Book Building",
+            "lname": "Allied Blenders & Distillers Ltd",
+            "nse_b_scripcode": "24308",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544203"
+        },
+        {
+            "co_code": "68966",
+            "issuetype": "Book Building - SME",
+            "lname": "Yash Highvoltage Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544310"
+        },
+        {
+            "co_code": "69617",
+            "issuetype": "Book Building",
+            "lname": "Ecos (India) Mobility & Hospitality Ltd",
+            "nse_b_scripcode": "25060",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544239"
+        },
+        {
+            "co_code": "71013",
+            "issuetype": "Book Building",
+            "lname": "Dr Agarwal's Health Care Ltd",
+            "nse_b_scripcode": "29452",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544350"
+        },
+        {
+            "co_code": "71706",
+            "issuetype": "Book Building",
+            "lname": "Inventurus Knowledge Solutions Ltd",
+            "nse_b_scripcode": "28125",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544309"
+        },
+        {
+            "co_code": "71636",
+            "issuetype": "Book Building",
+            "lname": "ACME Solar Holdings Ltd",
+            "nse_b_scripcode": "27061",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544283"
+        },
+        {
+            "co_code": "73284",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Sylvan Plyboard (India) Ltd",
+            "nse_b_scripcode": "24267",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "73286",
+            "issuetype": "Book Building",
+            "lname": "Prostarm Info Systems Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "73685",
+            "issuetype": "Book Building - SME",
+            "lname": "Aditya Ultra Steel Ltd",
+            "nse_b_scripcode": "25251",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "73975",
+            "issuetype": "Book Building",
+            "lname": "Gala Precision Engineering Ltd",
+            "nse_b_scripcode": "25134",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544244"
+        },
+        {
+            "co_code": "74261",
+            "issuetype": "Book Building",
+            "lname": "Aegis Vopak Terminals Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "74480",
+            "issuetype": "Book Building - SME",
+            "lname": "Aeron Composites Ltd",
+            "nse_b_scripcode": "25065",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "75273",
+            "issuetype": "Book Building",
+            "lname": "Zinka Logistics Solutions Ltd",
+            "nse_b_scripcode": "27144",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544288"
+        },
+        {
+            "co_code": "74863",
+            "issuetype": "Book Building",
+            "lname": "Akme Fintrade (India) Ltd",
+            "nse_b_scripcode": "24159",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544200"
+        },
+        {
+            "co_code": "75069",
+            "issuetype": "Book Building - SME",
+            "lname": "Apex Ecotech Ltd",
+            "nse_b_scripcode": "27291",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "75082",
+            "issuetype": "Book Building - SME",
+            "lname": "Jungle Camps India Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544304"
+        },
+        {
+            "co_code": "75410",
+            "issuetype": "Book Building",
+            "lname": "Unicommerce eSolutions Ltd",
+            "nse_b_scripcode": "24809",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544227"
+        },
+        {
+            "co_code": "75556",
+            "issuetype": "Book Building",
+            "lname": "Ather Energy Ltd",
+            "nse_b_scripcode": "757645",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544397"
+        },
+        {
+            "co_code": "75559",
+            "issuetype": "Book Building",
+            "lname": "Ola Electric Mobility Ltd",
+            "nse_b_scripcode": "24777",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544225"
+        },
+        {
+            "co_code": "75628",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Visaman Global Sales Ltd",
+            "nse_b_scripcode": "24274",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "75817",
+            "issuetype": "Book Building",
+            "lname": "Le Travenues Technology Ltd",
+            "nse_b_scripcode": "24067",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544192"
+        },
+        {
+            "co_code": "76250",
+            "issuetype": "Book Building",
+            "lname": "Suraksha Diagnostic Ltd",
+            "nse_b_scripcode": "27334",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544293"
+        },
+        {
+            "co_code": "76395",
+            "issuetype": "Book Building",
+            "lname": "Sanathan Textiles Ltd",
+            "nse_b_scripcode": "28805",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544314"
+        },
+        {
+            "co_code": "76674",
+            "issuetype": "Book Building - SME",
+            "lname": "Jay Bee Laminations Ltd",
+            "nse_b_scripcode": "25037",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "76733",
+            "issuetype": "Book Building",
+            "lname": "Baazar Style Retail Ltd",
+            "nse_b_scripcode": "25114",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544243"
+        },
+        {
+            "co_code": "76751",
+            "issuetype": "Book Building",
+            "lname": "Premier Energies Ltd",
+            "nse_b_scripcode": "25049",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544238"
+        },
+        {
+            "co_code": "76815",
+            "issuetype": "Fixed Price - SME",
+            "lname": "QVC Exports Ltd",
+            "nse_b_scripcode": "24960",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "76989",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Paramatrix Technologies Ltd",
+            "nse_b_scripcode": "25069",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "77163",
+            "issuetype": "Book Building",
+            "lname": "Concord Enviro Systems Ltd",
+            "nse_b_scripcode": "28764",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544315"
+        },
+        {
+            "co_code": "77627",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Tunwal E-Motors Ltd",
+            "nse_b_scripcode": "24520",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "77757",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Manoj Jewellers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544400"
+        },
+        {
+            "co_code": "77825",
+            "issuetype": "Book Building - SME",
+            "lname": "Aprameya Engineering Ltd",
+            "nse_b_scripcode": "24638",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "77860",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Naturewings Holidays Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544245"
+        },
+        {
+            "co_code": "77882",
+            "issuetype": "Book Building",
+            "lname": "Enviro Infra Engineers Ltd",
+            "nse_b_scripcode": "27213",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544290"
+        },
+        {
+            "co_code": "78027",
+            "issuetype": "Book Building - SME",
+            "lname": "Virtual Galaxy Infotech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "78092",
+            "issuetype": "Book Building",
+            "lname": "Schloss Bangalore Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "78691",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Avax Apparels and Ornaments Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544337"
+        },
+        {
+            "co_code": "78924",
+            "issuetype": "Book Building - SME",
+            "lname": "Diensten Tech Ltd",
+            "nse_b_scripcode": "24313",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "79071",
+            "issuetype": "Book Building",
+            "lname": "International Gemmological Institute (India) Ltd",
+            "nse_b_scripcode": "28378",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544311"
+        },
+        {
+            "co_code": "79452",
+            "issuetype": "Book Building - SME",
+            "lname": "Anya Polytech & Fertilizers Ltd",
+            "nse_b_scripcode": "28983",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "79673",
+            "issuetype": "Book Building - SME",
+            "lname": "Shri Ahimsa Naturals Ltd",
+            "nse_b_scripcode": "756406",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "80006",
+            "issuetype": "Book Building",
+            "lname": "Sanstar Ltd",
+            "nse_b_scripcode": "24582",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544217"
+        },
+        {
+            "co_code": "81373",
+            "issuetype": "Book Building - SME",
+            "lname": "Indian Phosphate Ltd",
+            "nse_b_scripcode": "25036",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "81767",
+            "issuetype": "Book Building - SME",
+            "lname": "Emerald Tyre Manufacturers Ltd",
+            "nse_b_scripcode": "27629",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "81901",
+            "issuetype": "Book Building",
+            "lname": "Shree Tirupati Balajee Agro Trading Co. Ltd",
+            "nse_b_scripcode": "25203",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544249"
+        },
+        {
+            "co_code": "82794",
+            "issuetype": "Book Building",
+            "lname": "Ajax Engineering Ltd",
+            "nse_b_scripcode": "29624",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544356"
+        },
+        {
+            "co_code": "82898",
+            "issuetype": "Book Building - SME",
+            "lname": "Parmeshwar Metal Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544330"
+        },
+        {
+            "co_code": "83048",
+            "issuetype": "Book Building - SME",
+            "lname": "United Heat Transfer Ltd",
+            "nse_b_scripcode": "25935",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "83611",
+            "issuetype": "Book Building - SME",
+            "lname": "Danish Power Ltd",
+            "nse_b_scripcode": "25927",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "85110",
+            "issuetype": "Book Building",
+            "lname": "Ceigall India Ltd",
+            "nse_b_scripcode": "24742",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544223"
+        },
+        {
+            "co_code": "91069",
+            "issuetype": "Book Building - SME",
+            "lname": "Chandan Healthcare Ltd",
+            "nse_b_scripcode": "29633",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "86134",
+            "issuetype": "Book Building",
+            "lname": "Laxmi Dental Ltd",
+            "nse_b_scripcode": "29171",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544339"
+        },
+        {
+            "co_code": "86391",
+            "issuetype": "Book Building",
+            "lname": "Vishal Mega Mart Ltd",
+            "nse_b_scripcode": "27969",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544307"
+        },
+        {
+            "co_code": "87709",
+            "issuetype": "Book Building - SME",
+            "lname": "Dar Credit & Capital Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "89753",
+            "issuetype": "Book Building - SME",
+            "lname": "Nikita Papers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "91610",
+            "issuetype": "Book Building - SME",
+            "lname": "Rikhav Securities Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544340"
+        },
+        {
+            "co_code": "91644",
+            "issuetype": "Book Building",
+            "lname": "Western Carriers (India) Ltd",
+            "nse_b_scripcode": "25403",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544258"
+        },
+        {
+            "co_code": "91708",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Sodhani Academy of Fintech Enablers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544257"
+        },
+        {
+            "co_code": "91810",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Davin Sons Retail Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544331"
+        },
+        {
+            "co_code": "91895",
+            "issuetype": "Book Building",
+            "lname": "Arkade Developers Ltd",
+            "nse_b_scripcode": "25398",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544261"
+        },
+        {
+            "co_code": "91900",
+            "issuetype": "Book Building - SME",
+            "lname": "Sar Televenture Ltd",
+            "nse_b_scripcode": "19863",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92230",
+            "issuetype": "Book Building",
+            "lname": "Saraswati Saree Depot Ltd",
+            "nse_b_scripcode": "24856",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544230"
+        },
+        {
+            "co_code": "92284",
+            "issuetype": "Book Building - SME",
+            "lname": "Brace Port Logistics Ltd",
+            "nse_b_scripcode": "24905",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92286",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Boss Packaging Solutions Ltd",
+            "nse_b_scripcode": "25119",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92325",
+            "issuetype": "Book Building - SME",
+            "lname": "Sacheerome Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92335",
+            "issuetype": "Book Building",
+            "lname": "Kross Ltd",
+            "nse_b_scripcode": "25252",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544253"
+        },
+        {
+            "co_code": "92396",
+            "issuetype": "Book Building - SME",
+            "lname": "Durlax Top Surface Ltd",
+            "nse_b_scripcode": "24164",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92423",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Kizi Apparels Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544221"
+        },
+        {
+            "co_code": "92471",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Magenta Lifecare Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544188"
+        },
+        {
+            "co_code": "92547",
+            "issuetype": "Book Building",
+            "lname": "Kronox Lab Sciences Ltd",
+            "nse_b_scripcode": "24025",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544187"
+        },
+        {
+            "co_code": "92765",
+            "issuetype": "Book Building - SME",
+            "lname": "Divine Power Energy Ltd",
+            "nse_b_scripcode": "24289",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92603",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Falcon Technoprojects India Ltd",
+            "nse_b_scripcode": "24153",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92618",
+            "issuetype": "Book Building",
+            "lname": "Denta Water & Infra Solutions Ltd",
+            "nse_b_scripcode": "29256",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544345"
+        },
+        {
+            "co_code": "92636",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Lamosaic India Ltd",
+            "nse_b_scripcode": "27225",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92640",
+            "issuetype": "Book Building",
+            "lname": "Stallion India Fluorochemicals Ltd",
+            "nse_b_scripcode": "29205",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544342"
+        },
+        {
+            "co_code": "92643",
+            "issuetype": "Book Building - SME",
+            "lname": "Aimtron Electronics Ltd",
+            "nse_b_scripcode": "23984",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92644",
+            "issuetype": "Book Building - SME",
+            "lname": "Paramount Speciality Forgings Ltd",
+            "nse_b_scripcode": "25431",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92677",
+            "issuetype": "Fixed Price - SME",
+            "lname": "United Cotfab Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544195"
+        },
+        {
+            "co_code": "92681",
+            "issuetype": "Book Building",
+            "lname": "Vraj Iron & Steel Ltd",
+            "nse_b_scripcode": "24321",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544204"
+        },
+        {
+            "co_code": "92685",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Retaggio Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544391"
+        },
+        {
+            "co_code": "92695",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Resourceful Automobile Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544236"
+        },
+        {
+            "co_code": "92699",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Broach Lifecare Hospital Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544231"
+        },
+        {
+            "co_code": "92701",
+            "issuetype": "Book Building - SME",
+            "lname": "Dindigul Farm Product Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544201"
+        },
+        {
+            "co_code": "92704",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Associated Coaters Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544183"
+        },
+        {
+            "co_code": "92708",
+            "issuetype": "Book Building",
+            "lname": "Deepak Builders & Engineers India Ltd",
+            "nse_b_scripcode": "25892",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544276"
+        },
+        {
+            "co_code": "92712",
+            "issuetype": "Book Building - SME",
+            "lname": "Akiko Global Services Ltd",
+            "nse_b_scripcode": "24304",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92728",
+            "issuetype": "Book Building - SME",
+            "lname": "Agarwal Toughened Glass India Ltd",
+            "nse_b_scripcode": "27309",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92755",
+            "issuetype": "Book Building",
+            "lname": "KRN Heat Exchanger and Refrigeration Ltd",
+            "nse_b_scripcode": "25643",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544263"
+        },
+        {
+            "co_code": "92760",
+            "issuetype": "Book Building - SME",
+            "lname": "Ganesh Green Bharat Ltd",
+            "nse_b_scripcode": "24442",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92764",
+            "issuetype": "Book Building - SME",
+            "lname": "Macobs Technologies Ltd",
+            "nse_b_scripcode": "24545",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92781",
+            "issuetype": "Book Building",
+            "lname": "Garuda Construction and Engineering Ltd",
+            "nse_b_scripcode": "25800",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544271"
+        },
+        {
+            "co_code": "92782",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Rapid Multimodal Logistics Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544237"
+        },
+        {
+            "co_code": "92783",
+            "issuetype": "Book Building - SME",
+            "lname": "Sati Poly Plast Ltd",
+            "nse_b_scripcode": "24507",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92788",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Clinitech Laboratory Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544220"
+        },
+        {
+            "co_code": "92828",
+            "issuetype": "Book Building - SME",
+            "lname": "Ambey Laboratories Ltd",
+            "nse_b_scripcode": "24415",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92831",
+            "issuetype": "Book Building - SME",
+            "lname": "Esprit Stones Ltd",
+            "nse_b_scripcode": "24678",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92832",
+            "issuetype": "Book Building - SME",
+            "lname": "Gem Enviro Management Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544199"
+        },
+        {
+            "co_code": "92834",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Innomet Advanced Materials Ltd",
+            "nse_b_scripcode": "25320",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92835",
+            "issuetype": "Book Building - SME",
+            "lname": "Manglam Infra & Engineering Ltd",
+            "nse_b_scripcode": "24632",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92836",
+            "issuetype": "Book Building - SME",
+            "lname": "Mason Infratech Ltd",
+            "nse_b_scripcode": "24278",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92839",
+            "issuetype": "Book Building - SME",
+            "lname": "TBI Corn Ltd",
+            "nse_b_scripcode": "24022",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92841",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Winny Immigration & Education Services Ltd",
+            "nse_b_scripcode": "24173",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92843",
+            "issuetype": "Book Building",
+            "lname": "Tolins Tyres Ltd",
+            "nse_b_scripcode": "25264",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544254"
+        },
+        {
+            "co_code": "92868",
+            "issuetype": "Book Building - SME",
+            "lname": "Z-Tech (India) Ltd",
+            "nse_b_scripcode": "23979",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92869",
+            "issuetype": "Book Building - SME",
+            "lname": "VVIP Infratech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544219"
+        },
+        {
+            "co_code": "92883",
+            "issuetype": "Book Building",
+            "lname": "Orient Technologies Ltd",
+            "nse_b_scripcode": "24961",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544235"
+        },
+        {
+            "co_code": "92885",
+            "issuetype": "Book Building - SME",
+            "lname": "Medicamen Organics Ltd",
+            "nse_b_scripcode": "24245",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92886",
+            "issuetype": "Fixed Price - SME",
+            "lname": "3C IT Solutions & Telecoms (India) Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544190"
+        },
+        {
+            "co_code": "92904",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Gajanand International Ltd",
+            "nse_b_scripcode": "25244",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92921",
+            "issuetype": "Book Building - SME",
+            "lname": "GP Eco Solutions India Ltd",
+            "nse_b_scripcode": "24108",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92923",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Mangal Compusolution Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544287"
+        },
+        {
+            "co_code": "92924",
+            "issuetype": "Book Building - SME",
+            "lname": "Positron Energy Ltd",
+            "nse_b_scripcode": "24867",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92925",
+            "issuetype": "Book Building - SME",
+            "lname": "Shivalic Power Control Ltd",
+            "nse_b_scripcode": "24252",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92929",
+            "issuetype": "Book Building - SME",
+            "lname": "GB Logistics Commerce Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544348"
+        },
+        {
+            "co_code": "92930",
+            "issuetype": "Book Building - SME",
+            "lname": "Kataria Industries Ltd",
+            "nse_b_scripcode": "24528",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92934",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Sattrix Information Security Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544189"
+        },
+        {
+            "co_code": "92938",
+            "issuetype": "Fixed Price - SME",
+            "lname": "SPP Polymer Ltd",
+            "nse_b_scripcode": "25306",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92957",
+            "issuetype": "Book Building - SME",
+            "lname": "RNFI Services Ltd",
+            "nse_b_scripcode": "24592",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92958",
+            "issuetype": "Book Building - SME",
+            "lname": "Bulkcorp International Ltd",
+            "nse_b_scripcode": "24704",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92960",
+            "issuetype": "Book Building - SME",
+            "lname": "Rajputana Industries Ltd",
+            "nse_b_scripcode": "24707",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92964",
+            "issuetype": "Book Building - SME",
+            "lname": "Afcom Holdings Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544224"
+        },
+        {
+            "co_code": "92971",
+            "issuetype": "Book Building - SME",
+            "lname": "Techera Engineering India Ltd",
+            "nse_b_scripcode": "25652",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92972",
+            "issuetype": "Book Building - SME",
+            "lname": "Shubhshree Biofuels Energy Ltd",
+            "nse_b_scripcode": "25240",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92973",
+            "issuetype": "Book Building - SME",
+            "lname": "V.L.Infraprojects Ltd",
+            "nse_b_scripcode": "24606",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92974",
+            "issuetype": "Book Building - SME",
+            "lname": "Supreme Facility Management Ltd",
+            "nse_b_scripcode": "28093",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92976",
+            "issuetype": "Book Building - SME",
+            "lname": "Chetana Education Ltd",
+            "nse_b_scripcode": "24625",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92982",
+            "issuetype": "Book Building - SME",
+            "lname": "Three M Paper Boards Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544214"
+        },
+        {
+            "co_code": "92983",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Popular Foundations Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544259"
+        },
+        {
+            "co_code": "92984",
+            "issuetype": "Book Building - SME",
+            "lname": "Aelea Commodities Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544213"
+        },
+        {
+            "co_code": "92985",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Avi Ansh Textile Ltd",
+            "nse_b_scripcode": "25520",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92986",
+            "issuetype": "Book Building - SME",
+            "lname": "Bikewo Green Tech Ltd",
+            "nse_b_scripcode": "25527",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92990",
+            "issuetype": "Book Building - SME",
+            "lname": "Forcas Studio Ltd",
+            "nse_b_scripcode": "24914",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92991",
+            "issuetype": "Book Building - SME",
+            "lname": "Nephro Care India Ltd",
+            "nse_b_scripcode": "24350",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92992",
+            "issuetype": "Book Building - SME",
+            "lname": "Trom Industries Ltd",
+            "nse_b_scripcode": "24642",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "92994",
+            "issuetype": "Book Building - SME",
+            "lname": "Ashapura Logistics Ltd",
+            "nse_b_scripcode": "24711",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93011",
+            "issuetype": "Book Building - SME",
+            "lname": "Jeyyam Global Foods Ltd",
+            "nse_b_scripcode": "25147",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93014",
+            "issuetype": "Book Building - SME",
+            "lname": "Newmalayalam Steel Ltd",
+            "nse_b_scripcode": "28804",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93015",
+            "issuetype": "Book Building - SME",
+            "lname": "Namo eWaste Management Ltd",
+            "nse_b_scripcode": "25167",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93016",
+            "issuetype": "Book Building - SME",
+            "lname": "C2C Advanced Systems Ltd",
+            "nse_b_scripcode": "27277",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93017",
+            "issuetype": "Book Building - SME",
+            "lname": "Deccan Transcon Leasing Ltd",
+            "nse_b_scripcode": "25421",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93018",
+            "issuetype": "Book Building - SME",
+            "lname": "Envirotech Systems Ltd",
+            "nse_b_scripcode": "25412",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93035",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Kalana Ispat Ltd",
+            "nse_b_scripcode": "25443",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93045",
+            "issuetype": "Book Building - SME",
+            "lname": "Aesthetik Engineers Ltd",
+            "nse_b_scripcode": "24830",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93047",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Travels & Rentals Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544242"
+        },
+        {
+            "co_code": "93048",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Shreenath Paper Products Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544372"
+        },
+        {
+            "co_code": "93049",
+            "issuetype": "Book Building - SME",
+            "lname": "WOL 3D India Ltd",
+            "nse_b_scripcode": "25602",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93129",
+            "issuetype": "Book Building - SME",
+            "lname": "Effwa Infra & Research Ltd",
+            "nse_b_scripcode": "24435",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93130",
+            "issuetype": "Book Building - SME",
+            "lname": "Vision Infra Equipment Solutions Ltd",
+            "nse_b_scripcode": "25231",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93131",
+            "issuetype": "Book Building - SME",
+            "lname": "Share Samadhan Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544251"
+        },
+        {
+            "co_code": "93132",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Solve Plastic Products Ltd",
+            "nse_b_scripcode": "24882",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93133",
+            "issuetype": "Book Building - SME",
+            "lname": "Sathlokhar Synergys E&C Global Ltd",
+            "nse_b_scripcode": "24697",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93134",
+            "issuetype": "Book Building - SME",
+            "lname": "Sunlite Recycling Industries Ltd",
+            "nse_b_scripcode": "24868",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93135",
+            "issuetype": "Book Building - SME",
+            "lname": "Utssav CZ Gold Jewels Ltd",
+            "nse_b_scripcode": "24726",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93183",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Vdeal System Ltd",
+            "nse_b_scripcode": "25054",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93184",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Saj Hotels Ltd",
+            "nse_b_scripcode": "25712",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93185",
+            "issuetype": "Book Building - SME",
+            "lname": "Picturepost Studios Ltd",
+            "nse_b_scripcode": "24785",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93186",
+            "issuetype": "Book Building - SME",
+            "lname": "Amwill Health Care Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544353"
+        },
+        {
+            "co_code": "93187",
+            "issuetype": "Book Building - SME",
+            "lname": "Dhariwalcorp Ltd",
+            "nse_b_scripcode": "24747",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93255",
+            "issuetype": "Book Building - SME",
+            "lname": "Lakshya Powertech Ltd",
+            "nse_b_scripcode": "25863",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93188",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Ideal Technoplast Industries Ltd",
+            "nse_b_scripcode": "24950",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93218",
+            "issuetype": "Fixed Price - SME",
+            "lname": "HP Telecom India Ltd",
+            "nse_b_scripcode": "29875",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93219",
+            "issuetype": "Book Building - SME",
+            "lname": "Prizor Viztech Ltd",
+            "nse_b_scripcode": "24508",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93220",
+            "issuetype": "Book Building - SME",
+            "lname": "Neelam Linens and Garments (India) Ltd",
+            "nse_b_scripcode": "27123",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93240",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Khyati Global Ventures Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544270"
+        },
+        {
+            "co_code": "93244",
+            "issuetype": "Book Building - SME",
+            "lname": "Thinking Hats Entertainment Solutions Ltd",
+            "nse_b_scripcode": "25648",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93245",
+            "issuetype": "Book Building",
+            "lname": "Quadrant Future Tek Ltd",
+            "nse_b_scripcode": "29087",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544336"
+        },
+        {
+            "co_code": "93246",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Kenrik Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544398"
+        },
+        {
+            "co_code": "93247",
+            "issuetype": "Book Building - SME",
+            "lname": "HVAX Technologies Ltd",
+            "nse_b_scripcode": "25708",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93248",
+            "issuetype": "Book Building - SME",
+            "lname": "Pranik Logistics Ltd",
+            "nse_b_scripcode": "25818",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93254",
+            "issuetype": "Book Building - SME",
+            "lname": "OSEL Devices Ltd",
+            "nse_b_scripcode": "25389",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93258",
+            "issuetype": "Book Building - SME",
+            "lname": "Sahasra Electronic Solutions Ltd",
+            "nse_b_scripcode": "25671",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93271",
+            "issuetype": "Book Building",
+            "lname": "Sagility India Ltd",
+            "nse_b_scripcode": "27052",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544282"
+        },
+        {
+            "co_code": "93279",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Excellent Wires and Packaging Ltd",
+            "nse_b_scripcode": "25324",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93280",
+            "issuetype": "Book Building - SME",
+            "lname": "S D Retail Ltd",
+            "nse_b_scripcode": "25531",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93281",
+            "issuetype": "Book Building - SME",
+            "lname": "Pelatro Ltd",
+            "nse_b_scripcode": "25408",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93282",
+            "issuetype": "Book Building - SME",
+            "lname": "Divyadhan Recycling Industries Ltd",
+            "nse_b_scripcode": "25680",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93283",
+            "issuetype": "Book Building - SME",
+            "lname": "Forge Auto International Ltd",
+            "nse_b_scripcode": "25664",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93284",
+            "issuetype": "Book Building - SME",
+            "lname": "H.M. Electro Mech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544349"
+        },
+        {
+            "co_code": "93287",
+            "issuetype": "Book Building - SME",
+            "lname": "CapitalNumbers Infotech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544343"
+        },
+        {
+            "co_code": "93289",
+            "issuetype": "Book Building - SME",
+            "lname": "My Mudra Fincorp Ltd",
+            "nse_b_scripcode": "25208",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93290",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Abha Power and Steel Ltd",
+            "nse_b_scripcode": "27287",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93327",
+            "issuetype": "Book Building - SME",
+            "lname": "Usha Financial Services Ltd",
+            "nse_b_scripcode": "25955",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93328",
+            "issuetype": "Book Building - SME",
+            "lname": "Nacdac Infrastructure Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544313"
+        },
+        {
+            "co_code": "93330",
+            "issuetype": "Book Building - SME",
+            "lname": "ATC Energies System Ltd",
+            "nse_b_scripcode": "756402",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93335",
+            "issuetype": "Book Building - SME",
+            "lname": "S A Tech Software India Ltd",
+            "nse_b_scripcode": "24677",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93339",
+            "issuetype": "Book Building - SME",
+            "lname": "Paramount Dye Tec Ltd",
+            "nse_b_scripcode": "25720",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93341",
+            "issuetype": "Book Building - SME",
+            "lname": "Subam Papers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544267"
+        },
+        {
+            "co_code": "93342",
+            "issuetype": "Book Building - SME",
+            "lname": "Mach Conferences & Events Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544248"
+        },
+        {
+            "co_code": "93343",
+            "issuetype": "Book Building - SME",
+            "lname": "Sat Kartar Shopping Ltd",
+            "nse_b_scripcode": "29151",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93344",
+            "issuetype": "Book Building - SME",
+            "lname": "Rappid Valves India Ltd",
+            "nse_b_scripcode": "25610",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93346",
+            "issuetype": "Book Building - SME",
+            "lname": "Identixweb Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544388"
+        },
+        {
+            "co_code": "93347",
+            "issuetype": "Book Building - SME",
+            "lname": "Shiv Texchem Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544272"
+        },
+        {
+            "co_code": "93453",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Nexxus Petro Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544265"
+        },
+        {
+            "co_code": "93472",
+            "issuetype": "Book Building - SME",
+            "lname": "Delta Autocorp Ltd",
+            "nse_b_scripcode": "29095",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93473",
+            "issuetype": "Book Building",
+            "lname": "Standard Glass Lining Technology Ltd",
+            "nse_b_scripcode": "29075",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544333"
+        },
+        {
+            "co_code": "93474",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Swasth Foodtech India Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544368"
+        },
+        {
+            "co_code": "93475",
+            "issuetype": "Book Building - SME",
+            "lname": "Rajputana Biodiesel Ltd",
+            "nse_b_scripcode": "27269",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93476",
+            "issuetype": "Book Building - SME",
+            "lname": "Freshara Agro Exports Ltd",
+            "nse_b_scripcode": "25868",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93477",
+            "issuetype": "Book Building",
+            "lname": "Senores Pharmaceuticals Ltd",
+            "nse_b_scripcode": "28888",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544319"
+        },
+        {
+            "co_code": "93479",
+            "issuetype": "Book Building - SME",
+            "lname": "OBSC Perfection Ltd",
+            "nse_b_scripcode": "25923",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93480",
+            "issuetype": "Book Building - SME",
+            "lname": "Premium Plast Ltd",
+            "nse_b_scripcode": "25898",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93482",
+            "issuetype": "Book Building - SME",
+            "lname": "Toss The Coin Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544303"
+        },
+        {
+            "co_code": "93505",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Hamps Bio Limited",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544312"
+        },
+        {
+            "co_code": "93506",
+            "issuetype": "Fixed Price - SME",
+            "lname": "PDP Shipping & Projects Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544378"
+        },
+        {
+            "co_code": "93507",
+            "issuetype": "Book Building - SME",
+            "lname": "CLN Energy Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544347"
+        },
+        {
+            "co_code": "93509",
+            "issuetype": "Book Building - SME",
+            "lname": "Nisus Finance Services Co Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544296"
+        },
+        {
+            "co_code": "93579",
+            "issuetype": "Book Building - SME",
+            "lname": "B.R.Goyal Infrastructure Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544335"
+        },
+        {
+            "co_code": "93582",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Divine Hira Jewellers Ltd",
+            "nse_b_scripcode": "30262",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93583",
+            "issuetype": "Book Building - SME",
+            "lname": "Royal Arc Electrodes Ltd",
+            "nse_b_scripcode": "29730",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93585",
+            "issuetype": "Book Building - SME",
+            "lname": "Onyx Biotec Ltd",
+            "nse_b_scripcode": "27136",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93587",
+            "issuetype": "Book Building - SME",
+            "lname": "Rajesh Power Services Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544291"
+        },
+        {
+            "co_code": "93610",
+            "issuetype": "Book Building - SME",
+            "lname": "Fabtech Technologies Cleanrooms Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544332"
+        },
+        {
+            "co_code": "93613",
+            "issuetype": "Book Building-InvITs",
+            "lname": "Capital Infra Trust",
+            "nse_b_scripcode": "29157",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544338"
+        },
+        {
+            "co_code": "93630",
+            "issuetype": "Fixed Price - SME",
+            "lname": "L.K.Mehta Polymers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544366"
+        },
+        {
+            "co_code": "93631",
+            "issuetype": "Book Building",
+            "lname": "Unimech Aerospace and Manufacturing Ltd",
+            "nse_b_scripcode": "28960",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544322"
+        },
+        {
+            "co_code": "93633",
+            "issuetype": "Book Building - SME",
+            "lname": "Purple United Sales Ltd",
+            "nse_b_scripcode": "28044",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93634",
+            "issuetype": "Book Building - SME",
+            "lname": "Dhanlaxmi Crop Science Ltd",
+            "nse_b_scripcode": "27723",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93635",
+            "issuetype": "Book Building - SME",
+            "lname": "Landmark Immigration Consultants Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544341"
+        },
+        {
+            "co_code": "93636",
+            "issuetype": "Book Building - SME",
+            "lname": "Rapid Fleet Management Services Ltd",
+            "nse_b_scripcode": "30460",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94133",
+            "issuetype": "Book Building - SME",
+            "lname": "Tejas Cargo India Ltd",
+            "nse_b_scripcode": "29723",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93637",
+            "issuetype": "Book Building - SME",
+            "lname": "Ganesh Infraworld Ltd",
+            "nse_b_scripcode": "27351",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93638",
+            "issuetype": "Book Building - SME",
+            "lname": "Technichem Organics Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544327"
+        },
+        {
+            "co_code": "93641",
+            "issuetype": "Book Building - SME",
+            "lname": "Arunaya Organics Ltd",
+            "nse_b_scripcode": "756899",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93643",
+            "issuetype": "Book Building - SME",
+            "lname": "Astonea Labs Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93845",
+            "issuetype": "Book Building - SME",
+            "lname": "Jainik Power & Cables Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93645",
+            "issuetype": "Book Building - SME",
+            "lname": "Identical Brains Studios Ltd",
+            "nse_b_scripcode": "28574",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93646",
+            "issuetype": "Book Building - SME",
+            "lname": "Tankup Engineers Ltd",
+            "nse_b_scripcode": "756335",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93841",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Indobell Insulations Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544334"
+        },
+        {
+            "co_code": "93844",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Rexpro Enterprises Ltd",
+            "nse_b_scripcode": "29270",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93848",
+            "issuetype": "Book Building - SME",
+            "lname": "Ganga Bath Fittings Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93850",
+            "issuetype": "Book Building - SME",
+            "lname": "Leo Dryfruits & Spices Trading Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544329"
+        },
+        {
+            "co_code": "93853",
+            "issuetype": "Fixed Price - SME",
+            "lname": "NAPS Global India Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544373"
+        },
+        {
+            "co_code": "93995",
+            "issuetype": "Book Building - SME",
+            "lname": "P S Raj Steels Ltd",
+            "nse_b_scripcode": "29662",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93996",
+            "issuetype": "Book Building - SME",
+            "lname": "Kabra Jewels Ltd",
+            "nse_b_scripcode": "29195",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "93998",
+            "issuetype": "Book Building - SME",
+            "lname": "Active Infrastructure Ltd",
+            "nse_b_scripcode": "30464",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94000",
+            "issuetype": "Book Building - SME",
+            "lname": "Accretion Pharmaceuticals Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94001",
+            "issuetype": "Book Building - SME",
+            "lname": "EMA Partners India Ltd",
+            "nse_b_scripcode": "29229",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94003",
+            "issuetype": "Book Building - SME",
+            "lname": "Malpani Pipes & Fittings Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544351"
+        },
+        {
+            "co_code": "94004",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Nukleus Office Solutions Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544370"
+        },
+        {
+            "co_code": "94005",
+            "issuetype": "Book Building - SME",
+            "lname": "Solarium Green Energy Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544354"
+        },
+        {
+            "co_code": "94006",
+            "issuetype": "Book Building - SME",
+            "lname": "Paradeep Parivahan Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544383"
+        },
+        {
+            "co_code": "94007",
+            "issuetype": "Book Building - SME",
+            "lname": "Srigee DLM Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544399"
+        },
+        {
+            "co_code": "94008",
+            "issuetype": "Book Building",
+            "lname": "NTPC Green Energy Ltd",
+            "nse_b_scripcode": "27176",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544289"
+        },
+        {
+            "co_code": "94023",
+            "issuetype": "Book Building - SME",
+            "lname": "Blue Water Logistics Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94025",
+            "issuetype": "Book Building - SME",
+            "lname": "Readymix Construction Machinery Ltd",
+            "nse_b_scripcode": "29564",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94051",
+            "issuetype": "Book Building - SME",
+            "lname": "Neptune Petrochemicals Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94026",
+            "issuetype": "Book Building - SME",
+            "lname": "Voler Car Ltd",
+            "nse_b_scripcode": "29658",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94034",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Shanmuga Hospital Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544365"
+        },
+        {
+            "co_code": "94038",
+            "issuetype": "Book Building - SME",
+            "lname": "Chamunda Electrical Ltd",
+            "nse_b_scripcode": "29544",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94047",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Super Iron Foundry Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544381"
+        },
+        {
+            "co_code": "94067",
+            "issuetype": "Book Building",
+            "lname": "Scoda Tubes Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94071",
+            "issuetype": "Book Building - SME",
+            "lname": "Infonative Solutions Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544393"
+        },
+        {
+            "co_code": "94075",
+            "issuetype": "Book Building - SME",
+            "lname": "Desco Infratech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544387"
+        },
+        {
+            "co_code": "94082",
+            "issuetype": "Book Building - SME",
+            "lname": "Balaji Phosphates Ltd",
+            "nse_b_scripcode": "30033",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94106",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Integrity Infrabuild Developers Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94171",
+            "issuetype": "Book Building - SME",
+            "lname": "Maxvolt Energy Industries Ltd",
+            "nse_b_scripcode": "29645",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94175",
+            "issuetype": "Fixed Price - SME",
+            "lname": "3B Films Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94177",
+            "issuetype": "Book Building",
+            "lname": "Borana Weaves Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94184",
+            "issuetype": "Book Building-REITs - SME",
+            "lname": "Property Share Investment Trust- Propshare Platina",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544295"
+        },
+        {
+            "co_code": "94186",
+            "issuetype": "Book Building - SME",
+            "lname": "Grand Continent Hotels Ltd",
+            "nse_b_scripcode": "30289",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94187",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Spinaroo Commercial Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544392"
+        },
+        {
+            "co_code": "94247",
+            "issuetype": "Book Building - SME",
+            "lname": "Beezaasan Explotech Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "1",
+            "bse_b_scripcode": "544369"
+        },
+        {
+            "co_code": "94267",
+            "issuetype": "Book Building - SME",
+            "lname": "Unified Data- Tech Solutions Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94328",
+            "issuetype": "Book Building - SME",
+            "lname": "N R Vandana Tex Industries Ltd",
+            "nse_b_scripcode": "",
+            "nse_b_exchange": "",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        },
+        {
+            "co_code": "94355",
+            "issuetype": "Fixed Price - SME",
+            "lname": "Iware Supplychain Services Ltd",
+            "nse_b_scripcode": "757644",
+            "nse_b_exchange": "0",
+            "bse_b_exchange": "",
+            "bse_b_scripcode": ""
+        }
+    ]
+}
