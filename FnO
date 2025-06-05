@@ -1,0 +1,1131 @@
+{
+    "message": "",
+    "code": 200,
+    "data": [
+        {
+            "co_code": "6",
+            "symbol": "ACC",
+            "lname": "ACC Ltd"
+        },
+        {
+            "co_code": "31",
+            "symbol": "ASHOKLEY",
+            "lname": "Ashok Leyland Ltd"
+        },
+        {
+            "co_code": "34",
+            "symbol": "ASIANPAINT",
+            "lname": "Asian Paints Ltd"
+        },
+        {
+            "co_code": "55",
+            "symbol": "BALKRISIND",
+            "lname": "Balkrishna Industries Ltd"
+        },
+        {
+            "co_code": "69",
+            "symbol": "BHARATFORG",
+            "lname": "Bharat Forge Ltd"
+        },
+        {
+            "co_code": "82",
+            "symbol": "BLUESTARCO",
+            "lname": "Blue Star Ltd"
+        },
+        {
+            "co_code": "93",
+            "symbol": "BRITANNIA",
+            "lname": "Britannia Industries Ltd"
+        },
+        {
+            "co_code": "99",
+            "symbol": "CESC",
+            "lname": "CESC Ltd"
+        },
+        {
+            "co_code": "111",
+            "symbol": "EXIDEIND",
+            "lname": "Exide Industries Ltd"
+        },
+        {
+            "co_code": "114",
+            "symbol": "CIPLA",
+            "lname": "Cipla Ltd"
+        },
+        {
+            "co_code": "118",
+            "symbol": "COLPAL",
+            "lname": "Colgate-Palmolive (India) Ltd"
+        },
+        {
+            "co_code": "125",
+            "symbol": "CGPOWER",
+            "lname": "CG Power & Industrial Solutions Ltd"
+        },
+        {
+            "co_code": "151",
+            "symbol": "EICHERMOT",
+            "lname": "Eicher Motors Ltd"
+        },
+        {
+            "co_code": "175",
+            "symbol": "NESTLEIND",
+            "lname": "Nestle India Ltd"
+        },
+        {
+            "co_code": "218",
+            "symbol": "AMBUJACEM",
+            "lname": "Ambuja Cements Ltd"
+        },
+        {
+            "co_code": "227",
+            "symbol": "GRASIM",
+            "lname": "Grasim Industries Ltd"
+        },
+        {
+            "co_code": "237",
+            "symbol": "HEROMOTOCO",
+            "lname": "Hero MotoCorp Ltd"
+        },
+        {
+            "co_code": "242",
+            "symbol": "ABB",
+            "lname": "ABB India Ltd"
+        },
+        {
+            "co_code": "252",
+            "symbol": "HINDALCO",
+            "lname": "Hindalco Industries Ltd"
+        },
+        {
+            "co_code": "255",
+            "symbol": "HINDUNILVR",
+            "lname": "Hindustan Unilever Ltd"
+        },
+        {
+            "co_code": "282",
+            "symbol": "INDHOTEL",
+            "lname": "Indian Hotels Co Ltd"
+        },
+        {
+            "co_code": "301",
+            "symbol": "ITC",
+            "lname": "ITC Ltd"
+        },
+        {
+            "co_code": "337",
+            "symbol": "CUMMINSIND",
+            "lname": "Cummins India Ltd"
+        },
+        {
+            "co_code": "345",
+            "symbol": "TRENT",
+            "lname": "Trent Ltd"
+        },
+        {
+            "co_code": "348",
+            "symbol": "LT",
+            "lname": "Larsen & Toubro Ltd"
+        },
+        {
+            "co_code": "365",
+            "symbol": "M&M",
+            "lname": "Mahindra & Mahindra Ltd"
+        },
+        {
+            "co_code": "372",
+            "symbol": "MFSL",
+            "lname": "Max Financial Services Ltd"
+        },
+        {
+            "co_code": "378",
+            "symbol": "BOSCHLTD",
+            "lname": "Bosch Ltd"
+        },
+        {
+            "co_code": "412",
+            "symbol": "PEL",
+            "lname": "Piramal Enterprises Ltd"
+        },
+        {
+            "co_code": "476",
+            "symbol": "RELIANCE",
+            "lname": "Reliance Industries Ltd"
+        },
+        {
+            "co_code": "502",
+            "symbol": "VEDL",
+            "lname": "Vedanta Ltd"
+        },
+        {
+            "co_code": "508",
+            "symbol": "SHREECEM",
+            "lname": "Shree Cement Ltd"
+        },
+        {
+            "co_code": "513",
+            "symbol": "SRF",
+            "lname": "SRF Ltd"
+        },
+        {
+            "co_code": "514",
+            "symbol": "SIEMENS",
+            "lname": "Siemens Ltd"
+        },
+        {
+            "co_code": "541",
+            "symbol": "SUPREMEIND",
+            "lname": "Supreme Industries Ltd"
+        },
+        {
+            "co_code": "552",
+            "symbol": "TATACHEM",
+            "lname": "Tata Chemicals Ltd"
+        },
+        {
+            "co_code": "554",
+            "symbol": "TATAPOWER",
+            "lname": "Tata Power Company Ltd"
+        },
+        {
+            "co_code": "557",
+            "symbol": "TATACONSUM",
+            "lname": "Tata Consumer Products Ltd"
+        },
+        {
+            "co_code": "560",
+            "symbol": "TATAMOTORS",
+            "lname": "Tata Motors Ltd"
+        },
+        {
+            "co_code": "566",
+            "symbol": "TATASTEEL",
+            "lname": "Tata Steel Ltd"
+        },
+        {
+            "co_code": "597",
+            "symbol": "VOLTAS",
+            "lname": "Voltas Ltd"
+        },
+        {
+            "co_code": "614",
+            "symbol": "WIPRO",
+            "lname": "Wipro Ltd"
+        },
+        {
+            "co_code": "636",
+            "symbol": "APOLLOHOSP",
+            "lname": "Apollo Hospitals Enterprise Ltd"
+        },
+        {
+            "co_code": "704",
+            "symbol": "PATANJALI",
+            "lname": "Patanjali Foods Ltd"
+        },
+        {
+            "co_code": "815",
+            "symbol": "DRREDDY",
+            "lname": "Dr Reddys Laboratories Ltd"
+        },
+        {
+            "co_code": "1016",
+            "symbol": "TITAN",
+            "lname": "Titan Company Ltd"
+        },
+        {
+            "co_code": "1189",
+            "symbol": "HFCL",
+            "lname": "HFCL Ltd"
+        },
+        {
+            "co_code": "1375",
+            "symbol": "SBIN",
+            "lname": "State Bank of India"
+        },
+        {
+            "co_code": "1745",
+            "symbol": "SHRIRAMFIN",
+            "lname": "Shriram Finance Ltd"
+        },
+        {
+            "co_code": "2163",
+            "symbol": "CHOLAFIN",
+            "lname": "Cholamandalam Investment & Finance Company Ltd"
+        },
+        {
+            "co_code": "2290",
+            "symbol": "BPCL",
+            "lname": "Bharat Petroleum Corporation Ltd"
+        },
+        {
+            "co_code": "2295",
+            "symbol": "TATACOMM",
+            "lname": "Tata Communications Ltd"
+        },
+        {
+            "co_code": "2298",
+            "symbol": "BEL",
+            "lname": "Bharat Electronics Ltd"
+        },
+        {
+            "co_code": "2299",
+            "symbol": "SAIL",
+            "lname": "Steel Authority of India Ltd"
+        },
+        {
+            "co_code": "2304",
+            "symbol": "NATIONALUM",
+            "lname": "National Aluminium Company Ltd"
+        },
+        {
+            "co_code": "2305",
+            "symbol": "HINDPETRO",
+            "lname": "Hindustan Petroleum Corporation Ltd"
+        },
+        {
+            "co_code": "2306",
+            "symbol": "BHEL",
+            "lname": "Bharat Heavy Electricals Ltd"
+        },
+        {
+            "co_code": "2307",
+            "symbol": "HINDZINC",
+            "lname": "Hindustan Zinc Ltd"
+        },
+        {
+            "co_code": "2322",
+            "symbol": "TATAELXSI",
+            "lname": "Tata Elxsi Ltd"
+        },
+        {
+            "co_code": "2330",
+            "symbol": "KOTAKBANK",
+            "lname": "Kotak Mahindra Bank Ltd"
+        },
+        {
+            "co_code": "2378",
+            "symbol": "AARTIIND",
+            "lname": "Aarti Industries Ltd"
+        },
+        {
+            "co_code": "2461",
+            "symbol": "UPL",
+            "lname": "UPL Ltd"
+        },
+        {
+            "co_code": "2598",
+            "symbol": "NCC",
+            "lname": "NCC Ltd"
+        },
+        {
+            "co_code": "2650",
+            "symbol": "PIIND",
+            "lname": "P I Industries Ltd"
+        },
+        {
+            "co_code": "2806",
+            "symbol": "INFY",
+            "lname": "Infosys Ltd"
+        },
+        {
+            "co_code": "2966",
+            "symbol": "MOTHERSON",
+            "lname": "Samvardhana Motherson International Ltd"
+        },
+        {
+            "co_code": "3026",
+            "symbol": "LUPIN",
+            "lname": "Lupin Ltd"
+        },
+        {
+            "co_code": "3029",
+            "symbol": "CHAMBLFERT",
+            "lname": "Chambal Fertilisers & Chemicals Ltd"
+        },
+        {
+            "co_code": "3219",
+            "symbol": "PIDILITIND",
+            "lname": "Pidilite Industries Ltd"
+        },
+        {
+            "co_code": "3272",
+            "symbol": "HAVELLS",
+            "lname": "Havells India Ltd"
+        },
+        {
+            "co_code": "3361",
+            "symbol": "MPHASIS",
+            "lname": "Mphasis Ltd"
+        },
+        {
+            "co_code": "3392",
+            "symbol": "DABUR",
+            "lname": "Dabur India Ltd"
+        },
+        {
+            "co_code": "3616",
+            "symbol": "TORNTPHARM",
+            "lname": "Torrent Pharmaceuticals Ltd"
+        },
+        {
+            "co_code": "3709",
+            "symbol": "FEDERALBNK",
+            "lname": "Federal Bank Ltd"
+        },
+        {
+            "co_code": "3722",
+            "symbol": "BAJFINANCE",
+            "lname": "Bajaj Finance Ltd"
+        },
+        {
+            "co_code": "3898",
+            "symbol": "HINDCOPPER",
+            "lname": "Hindustan Copper Ltd"
+        },
+        {
+            "co_code": "4244",
+            "symbol": "ADANIENT",
+            "lname": "Adani Enterprises Ltd"
+        },
+        {
+            "co_code": "4248",
+            "symbol": "LICHSGFIN",
+            "lname": "LIC Housing Finance Ltd"
+        },
+        {
+            "co_code": "4325",
+            "symbol": "SUNPHARMA",
+            "lname": "Sun Pharmaceutical Industries Ltd"
+        },
+        {
+            "co_code": "4666",
+            "symbol": "AUROPHARMA",
+            "lname": "Aurobindo Pharma Ltd"
+        },
+        {
+            "co_code": "4679",
+            "symbol": "KEI",
+            "lname": "KEI Industries Ltd"
+        },
+        {
+            "co_code": "4764",
+            "symbol": "JSWSTEEL",
+            "lname": "JSW Steel Ltd"
+        },
+        {
+            "co_code": "4987",
+            "symbol": "HDFCBANK",
+            "lname": "HDFC Bank Ltd"
+        },
+        {
+            "co_code": "5023",
+            "symbol": "POONAWALLA",
+            "lname": "Poonawalla Fincorp Ltd"
+        },
+        {
+            "co_code": "5400",
+            "symbol": "TCS",
+            "lname": "Tata Consultancy Services Ltd"
+        },
+        {
+            "co_code": "5418",
+            "symbol": "ICICIBANK",
+            "lname": "ICICI Bank Ltd"
+        },
+        {
+            "co_code": "5452",
+            "symbol": "OIL",
+            "lname": "Oil India Ltd"
+        },
+        {
+            "co_code": "5455",
+            "symbol": "POWERGRID",
+            "lname": "Power Grid Corporation of India Ltd"
+        },
+        {
+            "co_code": "5456",
+            "symbol": "BANKBARODA",
+            "lname": "Bank of Baroda"
+        },
+        {
+            "co_code": "5471",
+            "symbol": "CANBK",
+            "lname": "Canara Bank"
+        },
+        {
+            "co_code": "5493",
+            "symbol": "UNIONBANK",
+            "lname": "Union Bank of India"
+        },
+        {
+            "co_code": "5496",
+            "symbol": "MARUTI",
+            "lname": "Maruti Suzuki India Ltd"
+        },
+        {
+            "co_code": "5531",
+            "symbol": "INDUSINDBK",
+            "lname": "IndusInd Bank Ltd"
+        },
+        {
+            "co_code": "5554",
+            "symbol": "AXISBANK",
+            "lname": "Axis Bank Ltd"
+        },
+        {
+            "co_code": "5654",
+            "symbol": "BANKINDIA",
+            "lname": "Bank of India"
+        },
+        {
+            "co_code": "5656",
+            "symbol": "HCLTECH",
+            "lname": "HCL Technologies Ltd"
+        },
+        {
+            "co_code": "5982",
+            "symbol": "RBLBANK",
+            "lname": "RBL Bank Ltd"
+        },
+        {
+            "co_code": "6061",
+            "symbol": "INDIANB",
+            "lname": "Indian Bank"
+        },
+        {
+            "co_code": "6068",
+            "symbol": "ONGC",
+            "lname": "Oil & Natural Gas Corpn Ltd"
+        },
+        {
+            "co_code": "6083",
+            "symbol": "MANAPPURAM",
+            "lname": "Manappuram Finance Ltd"
+        },
+        {
+            "co_code": "6418",
+            "symbol": "PHOENIXLTD",
+            "lname": "Phoenix Mills Ltd"
+        },
+        {
+            "co_code": "6890",
+            "symbol": "DLF",
+            "lname": "DLF Ltd"
+        },
+        {
+            "co_code": "7855",
+            "symbol": "PNB",
+            "lname": "Punjab National Bank"
+        },
+        {
+            "co_code": "8029",
+            "symbol": "TVSMOTOR",
+            "lname": "TVS Motor Company Ltd"
+        },
+        {
+            "co_code": "8036",
+            "symbol": "UNITDSPR",
+            "lname": "United Spirits Ltd"
+        },
+        {
+            "co_code": "12001",
+            "symbol": "NTPC",
+            "lname": "NTPC Ltd"
+        },
+        {
+            "co_code": "12002",
+            "symbol": "IOC",
+            "lname": "Indian Oil Corporation Ltd"
+        },
+        {
+            "co_code": "12019",
+            "symbol": "COALINDIA",
+            "lname": "Coal India Ltd"
+        },
+        {
+            "co_code": "12024",
+            "symbol": "LICI",
+            "lname": "Life Insurance Corporation of India"
+        },
+        {
+            "co_code": "12030",
+            "symbol": "HAL",
+            "lname": "Hindustan Aeronautics Ltd"
+        },
+        {
+            "co_code": "12059",
+            "symbol": "NMDC",
+            "lname": "NMDC Ltd"
+        },
+        {
+            "co_code": "12068",
+            "symbol": "PFC",
+            "lname": "Power Finance Corporation Ltd"
+        },
+        {
+            "co_code": "12076",
+            "symbol": "SJVN",
+            "lname": "SJVN Ltd"
+        },
+        {
+            "co_code": "12197",
+            "symbol": "HUDCO",
+            "lname": "Housing & Urban Development Corporation Ltd"
+        },
+        {
+            "co_code": "12295",
+            "symbol": "UNOMINDA",
+            "lname": "Uno Minda Ltd"
+        },
+        {
+            "co_code": "12334",
+            "symbol": "APLAPOLLO",
+            "lname": "APL Apollo Tubes Ltd"
+        },
+        {
+            "co_code": "12350",
+            "symbol": "GAIL",
+            "lname": "GAIL (India) Ltd"
+        },
+        {
+            "co_code": "12521",
+            "symbol": "PAGEIND",
+            "lname": "Page Industries Ltd"
+        },
+        {
+            "co_code": "12584",
+            "symbol": "NHPC",
+            "lname": "NHPC Ltd"
+        },
+        {
+            "co_code": "12585",
+            "symbol": "MARICO",
+            "lname": "Marico Ltd"
+        },
+        {
+            "co_code": "12607",
+            "symbol": "CONCOR",
+            "lname": "Container Corporation Of India Ltd"
+        },
+        {
+            "co_code": "12632",
+            "symbol": "GRANULES",
+            "lname": "Granules India Ltd"
+        },
+        {
+            "co_code": "12854",
+            "symbol": "IRFC",
+            "lname": "Indian Railway Finance Corporation Ltd"
+        },
+        {
+            "co_code": "12963",
+            "symbol": "MAZDOCK",
+            "lname": "Mazagon Dock Shipbuilders Ltd"
+        },
+        {
+            "co_code": "13105",
+            "symbol": "OFSS",
+            "lname": "Oracle Financial Services Software Ltd"
+        },
+        {
+            "co_code": "13166",
+            "symbol": "NBCC",
+            "lname": "NBCC (India) Ltd"
+        },
+        {
+            "co_code": "13212",
+            "symbol": "PRESTIGE",
+            "lname": "Prestige Estates Projects Ltd"
+        },
+        {
+            "co_code": "13369",
+            "symbol": "MGL",
+            "lname": "Mahanagar Gas Ltd"
+        },
+        {
+            "co_code": "13660",
+            "symbol": "CYIENT",
+            "lname": "Cyient Ltd"
+        },
+        {
+            "co_code": "14548",
+            "symbol": "JUBLFOOD",
+            "lname": "Jubilant Foodworks Ltd"
+        },
+        {
+            "co_code": "14801",
+            "symbol": "BIOCON",
+            "lname": "Biocon Ltd"
+        },
+        {
+            "co_code": "15542",
+            "symbol": "BHARTIARTL",
+            "lname": "Bharti Airtel Ltd"
+        },
+        {
+            "co_code": "15550",
+            "symbol": "IREDA",
+            "lname": "Indian Renewable Energy Development Agency Ltd"
+        },
+        {
+            "co_code": "15613",
+            "symbol": "GODREJPROP",
+            "lname": "Godrej Properties Ltd"
+        },
+        {
+            "co_code": "16474",
+            "symbol": "PNBHOUSING",
+            "lname": "PNB Housing Finance Ltd"
+        },
+        {
+            "co_code": "16541",
+            "symbol": "BSOFT",
+            "lname": "Birlasoft Ltd"
+        },
+        {
+            "co_code": "16795",
+            "symbol": "M&MFIN",
+            "lname": "Mahindra & Mahindra Financial Services Ltd"
+        },
+        {
+            "co_code": "17215",
+            "symbol": "TECHM",
+            "lname": "Tech Mahindra Ltd"
+        },
+        {
+            "co_code": "17540",
+            "symbol": "BDL",
+            "lname": "Bharat Dynamics Ltd"
+        },
+        {
+            "co_code": "18075",
+            "symbol": "RECLTD",
+            "lname": "REC Ltd"
+        },
+        {
+            "co_code": "18105",
+            "symbol": "LTIM",
+            "lname": "LTIMindtree Ltd"
+        },
+        {
+            "co_code": "18286",
+            "symbol": "PERSISTENT",
+            "lname": "Persistent Systems Ltd"
+        },
+        {
+            "co_code": "18295",
+            "symbol": "TATATECH",
+            "lname": "Tata Technologies Ltd"
+        },
+        {
+            "co_code": "18341",
+            "symbol": "SONACOMS",
+            "lname": "Sona BLW Precision Forgings Ltd"
+        },
+        {
+            "co_code": "18488",
+            "symbol": "TORNTPOWER",
+            "lname": "Torrent Power Ltd"
+        },
+        {
+            "co_code": "18844",
+            "symbol": "NAUKRI",
+            "lname": "Info Edge (India) Ltd"
+        },
+        {
+            "co_code": "19299",
+            "symbol": "ALKEM",
+            "lname": "Alkem Laboratories Ltd"
+        },
+        {
+            "co_code": "19939",
+            "symbol": "TITAGARH",
+            "lname": "Titagarh Rail Systems Ltd"
+        },
+        {
+            "co_code": "20099",
+            "symbol": "PETRONET",
+            "lname": "Petronet LNG Ltd"
+        },
+        {
+            "co_code": "20139",
+            "symbol": "CDSL",
+            "lname": "Central Depository Services (India) Ltd"
+        },
+        {
+            "co_code": "20149",
+            "symbol": "SBICARD",
+            "lname": "SBI Cards & Payment Services Ltd"
+        },
+        {
+            "co_code": "20287",
+            "symbol": "JINDALSTEL",
+            "lname": "Jindal Steel & Power Ltd"
+        },
+        {
+            "co_code": "20559",
+            "symbol": "NIFTY",
+            "lname": "Nifty 50"
+        },
+        {
+            "co_code": "20600",
+            "symbol": "GLENMARK",
+            "lname": "Glenmark Pharmaceuticals Ltd"
+        },
+        {
+            "co_code": "20703",
+            "symbol": "IGL",
+            "lname": "Indraprastha Gas Ltd"
+        },
+        {
+            "co_code": "20712",
+            "symbol": "JIOFIN",
+            "lname": "Jio Financial Services Ltd"
+        },
+        {
+            "co_code": "20883",
+            "symbol": "ZYDUSLIFE",
+            "lname": "Zydus Lifesciences Ltd"
+        },
+        {
+            "co_code": "21188",
+            "symbol": "DIVISLAB",
+            "lname": "Divis Laboratories Ltd"
+        },
+        {
+            "co_code": "21236",
+            "symbol": "BSE",
+            "lname": "BSE Ltd"
+        },
+        {
+            "co_code": "21272",
+            "symbol": "HDFCAMC",
+            "lname": "HDFC Asset Management Company Ltd"
+        },
+        {
+            "co_code": "21281",
+            "symbol": "ADANIPORTS",
+            "lname": "Adani Ports & Special Economic Zone Ltd"
+        },
+        {
+            "co_code": "21960",
+            "symbol": "GODREJCP",
+            "lname": "Godrej Consumer Products Ltd"
+        },
+        {
+            "co_code": "21997",
+            "symbol": "HDFCLIFE",
+            "lname": "HDFC Life Insurance Company Ltd"
+        },
+        {
+            "co_code": "22005",
+            "symbol": "ICICIPRULI",
+            "lname": "ICICI Prudential Life Insurance Company Ltd"
+        },
+        {
+            "co_code": "22045",
+            "symbol": "SBILIFE",
+            "lname": "SBI Life Insurance Company Ltd"
+        },
+        {
+            "co_code": "22113",
+            "symbol": "NIFTYNXT50",
+            "lname": "Nifty Next 50"
+        },
+        {
+            "co_code": "22664",
+            "symbol": "ICICIGI",
+            "lname": "ICICI Lombard General Insurance Company Ltd"
+        },
+        {
+            "co_code": "22865",
+            "symbol": "MAXHEALTH",
+            "lname": "Max Healthcare Institute Ltd"
+        },
+        {
+            "co_code": "23039",
+            "symbol": "GMRAIRPORT",
+            "lname": "GMR Airports Ltd"
+        },
+        {
+            "co_code": "23040",
+            "symbol": "IDEA",
+            "lname": "Vodafone Idea Ltd"
+        },
+        {
+            "co_code": "23296",
+            "symbol": "IIFL",
+            "lname": "IIFL Finance Ltd"
+        },
+        {
+            "co_code": "23401",
+            "symbol": "IRCTC",
+            "lname": "Indian Railway Catering & Tourism Corporation Ltd"
+        },
+        {
+            "co_code": "24049",
+            "symbol": "FORTIS",
+            "lname": "Fortis Healthcare Ltd"
+        },
+        {
+            "co_code": "24608",
+            "symbol": "VBL",
+            "lname": "Varun Beverages Ltd"
+        },
+        {
+            "co_code": "24610",
+            "symbol": "JSL",
+            "lname": "Jindal Stainless Ltd"
+        },
+        {
+            "co_code": "24769",
+            "symbol": "MUTHOOTFIN",
+            "lname": "Muthoot Finance Ltd"
+        },
+        {
+            "co_code": "24951",
+            "symbol": "ULTRACEMCO",
+            "lname": "UltraTech Cement Ltd"
+        },
+        {
+            "co_code": "24978",
+            "symbol": "COFORGE",
+            "lname": "Coforge Ltd"
+        },
+        {
+            "co_code": "25267",
+            "symbol": "YESBANK",
+            "lname": "Yes Bank Ltd"
+        },
+        {
+            "co_code": "25386",
+            "symbol": "SOLARINDS",
+            "lname": "Solar Industries India Ltd"
+        },
+        {
+            "co_code": "25746",
+            "symbol": "MCX",
+            "lname": "Multi Commodity Exchange of India Ltd"
+        },
+        {
+            "co_code": "25767",
+            "symbol": "SYNGENE",
+            "lname": "Syngene International Ltd"
+        },
+        {
+            "co_code": "26603",
+            "symbol": "POLYCAB",
+            "lname": "Polycab India Ltd"
+        },
+        {
+            "co_code": "26721",
+            "symbol": "RVNL",
+            "lname": "Rail Vikas Nigam Ltd"
+        },
+        {
+            "co_code": "26753",
+            "symbol": "BANKNIFTY",
+            "lname": "Nifty Bank"
+        },
+        {
+            "co_code": "27323",
+            "symbol": "JSWENERGY",
+            "lname": "JSW Energy Ltd"
+        },
+        {
+            "co_code": "27655",
+            "symbol": "ASTRAL",
+            "lname": "Astral Ltd"
+        },
+        {
+            "co_code": "28074",
+            "symbol": "BAJAJ-AUTO",
+            "lname": "Bajaj Auto Ltd"
+        },
+        {
+            "co_code": "28075",
+            "symbol": "BAJAJFINSV",
+            "lname": "Bajaj Finserv Ltd"
+        },
+        {
+            "co_code": "28365",
+            "symbol": "IRB",
+            "lname": "IRB Infrastructure Developers Ltd"
+        },
+        {
+            "co_code": "33159",
+            "symbol": "INDIGO",
+            "lname": "Interglobe Aviation Ltd"
+        },
+        {
+            "co_code": "34695",
+            "symbol": "AUBANK",
+            "lname": "AU Small Finance Bank Ltd"
+        },
+        {
+            "co_code": "35713",
+            "symbol": "LODHA",
+            "lname": "Macrotech Developers Ltd"
+        },
+        {
+            "co_code": "35727",
+            "symbol": "DIXON",
+            "lname": "Dixon Technologies (India) Ltd"
+        },
+        {
+            "co_code": "38025",
+            "symbol": "OBEROIRLTY",
+            "lname": "Oberoi Realty Ltd"
+        },
+        {
+            "co_code": "38451",
+            "symbol": "MANKIND",
+            "lname": "Mankind Pharma Ltd"
+        },
+        {
+            "co_code": "38941",
+            "symbol": "ANGELONE",
+            "lname": "Angel One Ltd"
+        },
+        {
+            "co_code": "39108",
+            "symbol": "ATGL",
+            "lname": "Adani Total Gas Ltd"
+        },
+        {
+            "co_code": "40147",
+            "symbol": "PAYTM",
+            "lname": "One 97 Communications Ltd"
+        },
+        {
+            "co_code": "40279",
+            "symbol": "INDUSTOWER",
+            "lname": "Indus Towers Ltd"
+        },
+        {
+            "co_code": "40903",
+            "symbol": "ABCAPITAL",
+            "lname": "Aditya Birla Capital Ltd"
+        },
+        {
+            "co_code": "40912",
+            "symbol": "ABFRL",
+            "lname": "Aditya Birla Fashion & Retail Ltd"
+        },
+        {
+            "co_code": "40942",
+            "symbol": "DMART",
+            "lname": "Avenue Supermarts Ltd"
+        },
+        {
+            "co_code": "40963",
+            "symbol": "TIINDIA",
+            "lname": "Tube Investments of India Ltd"
+        },
+        {
+            "co_code": "41147",
+            "symbol": "LTF",
+            "lname": "L&T Finance Ltd"
+        },
+        {
+            "co_code": "41343",
+            "symbol": "POLICYBZR",
+            "lname": "PB Fintech Ltd"
+        },
+        {
+            "co_code": "41384",
+            "symbol": "FINNIFTY",
+            "lname": "Nifty Financial Services"
+        },
+        {
+            "co_code": "42402",
+            "symbol": "KALYANKJIL",
+            "lname": "Kalyan Jewellers India Ltd"
+        },
+        {
+            "co_code": "43989",
+            "symbol": "INOXWIND",
+            "lname": "Inox Wind Ltd"
+        },
+        {
+            "co_code": "45955",
+            "symbol": "LAURUSLABS",
+            "lname": "Laurus Labs Ltd"
+        },
+        {
+            "co_code": "47716",
+            "symbol": "CAMS",
+            "lname": "Computer Age Management Services Ltd"
+        },
+        {
+            "co_code": "54759",
+            "symbol": "IDFCFIRSTB",
+            "lname": "IDFC First Bank Ltd"
+        },
+        {
+            "co_code": "65733",
+            "symbol": "CROMPTON",
+            "lname": "Crompton Greaves Consumer Electricals Ltd"
+        },
+        {
+            "co_code": "66273",
+            "symbol": "ADANIENSOL",
+            "lname": "Adani Energy Solutions Ltd"
+        },
+        {
+            "co_code": "68090",
+            "symbol": "BANDHANBNK",
+            "lname": "Bandhan Bank Ltd"
+        },
+        {
+            "co_code": "68117",
+            "symbol": "ETERNAL",
+            "lname": "Eternal Ltd"
+        },
+        {
+            "co_code": "68151",
+            "symbol": "DELHIVERY",
+            "lname": "Delhivery Ltd"
+        },
+        {
+            "co_code": "70666",
+            "symbol": "ADANIGREEN",
+            "lname": "Adani Green Energy Ltd"
+        },
+        {
+            "co_code": "70921",
+            "symbol": "DALBHARAT",
+            "lname": "Dalmia Bharat Ltd"
+        },
+        {
+            "co_code": "70961",
+            "symbol": "IEX",
+            "lname": "Indian Energy Exchange Ltd"
+        },
+        {
+            "co_code": "72062",
+            "symbol": "KPITTECH",
+            "lname": "KPIT Technologies Ltd"
+        },
+        {
+            "co_code": "75803",
+            "symbol": "NYKAA",
+            "lname": "FSN E-Commerce Ventures Ltd"
+        },
+        {
+            "co_code": "75971",
+            "symbol": "MIDCPNIFTY",
+            "lname": "Nifty Midcap Select"
+        },
+        {
+            "co_code": "76066",
+            "symbol": "PPLPHARMA",
+            "lname": "Piramal Pharma Ltd"
+        },
+        {
+            "co_code": "76723",
+            "symbol": "KAYNES",
+            "lname": "Kaynes Technology India Ltd"
+        }
+    ]
+}
