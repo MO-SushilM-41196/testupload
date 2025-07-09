@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Happy Birthday Ankit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    /* Add or update in your <style> section for a more stylish mobile UI */
+
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      /* Instagram-like radiant orange gradient */
+      background: linear-gradient(135deg, #f58529 0%, #dd2a7b 50%, #8134af 75%, #fdc800 100%);
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      min-height: 100vh;
+    }
+
+    .birthday-message {
+      position: absolute;
+      top: 6vw;
+      width: 100vw;
+      text-align: center;
+      font-size: 2.2rem;
+      color: #fff;
+      font-weight: bold;
+      letter-spacing: 2px;
+      text-shadow: 0 2px 12px #ff4081, 0 0 24px #fff;
+      animation: popIn 2s cubic-bezier(.68, -0.55, .27, 1.55) forwards;
+      z-index: 10;
+      padding: 0 4vw;
+      background: rgba(255, 64, 129, 0.08);
+      border-radius: 18px;
+      box-shadow: 0 2px 16px 0 #ff408155;
+    }
+
+    @media (max-width: 600px) {
+      .birthday-message {
+        font-size: 2.3rem;
+        top: 4vw;
+        padding: 0 2vw;
+        border-radius: 12px;
+      }
+    }
+
+    .cake {
+      position: absolute;
+      left: 50%;
+      bottom: 8vw;
+      transform: translateX(-50%) scale(1.08);
+      width: 60vw;
+      max-width: 340px;
+      min-width: 160px;
+      height: auto;
+      z-index: 10;
+      display: block;
+      filter: drop-shadow(0 8px 32px #ff4081aa) drop-shadow(0 0 12px #fff);
+      transition: filter 0.3s, transform 0.3s;
+      animation: cake-bounce 2s cubic-bezier(.68, -0.55, .27, 1.55) 0.5s both;
+    }
+
+    @media (max-width: 600px) {
+      .cake {
+        width: 85vw;
+        min-width: 120px;
+        max-width: 98vw;
+        bottom: 2vw;
+        transform: translateX(-50%) scale(1.18);
+      }
+    }
+
+    @keyframes cake-bounce {
+      0% {
+        transform: translateX(-50%) scale(0.7);
+      }
+
+      60% {
+        transform: translateX(-50%) scale(1.15);
+      }
+
+      80% {
+        transform: translateX(-50%) scale(0.95);
+      }
+
+      100% {
+        transform: translateX(-50%) scale(1.08);
+      }
+    }
+
+    .balloon {
+      position: absolute;
+      width: 12vw;
+      min-width: 28px;
+      max-width: 44px;
+      height: 18vw;
+      min-height: 44px;
+      max-height: 70px;
+      background: radial-gradient(circle, #ff4081 0%, #f06292 100%);
+      border-radius: 50%;
+      animation: float 6s linear infinite;
+      box-shadow: 0 4px 16px #ff4081aa, 0 0 8px #fff;
+      border: 2px solid #fff;
+      z-index: 5;
+    }
+
+    .balloon::after {
+      content: '';
+      position: absolute;
+      bottom: -12px;
+      left: 50%;
+      width: 2px;
+      height: 22px;
+      background: #333;
+      transform: translateX(-50%);
+      border-radius: 2px;
+    }
+
+    @media (max-width: 600px) {
+      .balloon {
+        width: 16vw;
+        min-width: 18px;
+        max-width: 38px;
+        height: 24vw;
+        min-height: 32px;
+        max-height: 60px;
+      }
+    }
+
+    @keyframes float {
+      0% {
+        bottom: -100px;
+        opacity: 0;
+        transform: scale(0.9) rotate(-8deg);
+      }
+
+      30% {
+        opacity: 1;
+        transform: scale(1.05) rotate(8deg);
+      }
+
+      60% {
+        opacity: 1;
+        transform: scale(1.1) rotate(-6deg);
+      }
+
+      100% {
+        bottom: 100%;
+        opacity: 0;
+        transform: scale(0.9) rotate(8deg);
+      }
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+      width: 100vw !important;
+      height: 100vh !important;
+      pointer-events: none;
+    }
+
+    audio {
+      display: none;
+    }
+
+    /* Add this to your <style> section for a flashy button effect */
+    #audio-overlay button {
+      position: relative;
+      overflow: hidden;
+      outline: none;
+      cursor: pointer;
+      /* Existing styles preserved */
+      transition: box-shadow 0.2s, background 0.2s, color 0.2s;
+      display: none;
+    }
+
+    #audio-overlay button::before {
+      content: '';
+      position: absolute;
+      top: -60%;
+      left: -60%;
+      width: 220%;
+      height: 220%;
+      background: linear-gradient(120deg, rgba(255, 255, 255, 0) 60%, rgba(255, 255, 255, 0.7) 70%, rgba(255, 255, 255, 0) 80%);
+      pointer-events: none;
+      z-index: 2;
+      animation: flashy-light 2s infinite linear;
+    }
+
+    @keyframes flashy-light {
+
+      0%,
+      100% {
+        opacity: 0;
+        transform: translateX(-100%) skewX(-20deg);
+      }
+
+      10% {
+        opacity: 1;
+      }
+
+      15% {
+        opacity: 0.7;
+      }
+
+      20% {
+        opacity: 0;
+      }
+
+      25% {
+        opacity: 1;
+      }
+
+      30% {
+        opacity: 0;
+      }
+
+      40% {
+        opacity: 0;
+        transform: translateX(100%) skewX(-20deg);
+      }
+
+      100% {
+        opacity: 0;
+      }
+    }
+
+    /* Add to your <style> section */
+    .slideshow-container {
+      position: absolute;
+      top: 14vw;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80vw;
+      max-width: 400px;
+      height: 38vw;
+      max-height: 220px;
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px #ff4081aa, 0 0 12px #fff;
+      z-index: 9;
+      background: #fff3;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slideshow-img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0;
+      transition: opacity 1s;
+      border-radius: 18px;
+    }
+
+    .slideshow-img.active {
+      opacity: 1;
+      z-index: 1;
+    }
+
+    @media (max-width: 600px) {
+      .slideshow-container {
+        width: 96vw;
+        height: 48vw;
+        max-width: 98vw;
+        max-height: 180px;
+        top: 18vw;
+        border-radius: 12px;
+      }
+
+      .slideshow-img {
+        border-radius: 12px;
+      }
+    }
+
+    /* Add or update in your <style> section */
+    .slideshow-container {
+      position: absolute;
+      top: 14vw;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 80vw;
+      max-width: 400px;
+      height: 38vw;
+      max-height: 220px;
+      border-radius: 18px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px #ff4081aa, 0 0 12px #fff;
+      z-index: 9;
+      background: #fff3;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    @media (max-width: 600px) {
+      .slideshow-container {
+        width: 88vw;
+        height: 55vh;
+        max-width: 88vw;
+        max-height: 55vh;
+        top: 16vh;
+        left: 50%;
+        transform: translateX(-50%);
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .slideshow-img {
+        border-radius: 12px;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    @media (max-width: 600px) {
+      #audio-overlay {
+        top: auto !important;
+        bottom: 66px !important;
+        left: 0 !important;
+        width: 100vw !important;
+        height: auto !important;
+        min-height: 120px;
+        max-height: 40vh;
+        border-radius: 18px 18px 0 0;
+        background: rgba(255, 64, 129, 0.95);
+        box-shadow: 0 -4px 24px #ff4081aa;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        padding: 1.5rem 0 1.2rem 0;
+        z-index: 9999;
+        position: fixed !important;
+        transition: bottom 0.3s;
+        display: none !important;
+      }
+
+      #audio-overlay span {
+        font-size: 1.1rem !important;
+        text-align: center;
+        padding: 0 1rem;
+      }
+
+      #audio-overlay button {
+        margin-top: 1.2rem !important;
+        font-size: 1rem !important;
+        padding: 0.8rem 1.5rem !important;
+        border-radius: 10px !important;
+      }
+    }
+
+    /* Add to your <style> section */
+    .birthday-message {
+      /* ...existing styles... */
+      animation: popIn 2s cubic-bezier(.68, -0.55, .27, 1.55) forwards, glow-text 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow-text {
+      0% {
+        text-shadow:
+          0 2px 12px #ff4081,
+          0 0 24px #fff,
+          0 0 0px #fff200,
+          0 0 0px #ff4081;
+        color: #fff;
+      }
+
+      50% {
+        text-shadow:
+          0 4px 24px #fff200,
+          0 0 48px #ff4081,
+          0 0 24px #fff,
+          0 0 12px #fff200;
+        color: #fff200;
+      }
+
+      100% {
+        text-shadow:
+          0 2px 12px #ff4081,
+          0 0 24px #fff,
+          0 0 0px #fff200,
+          0 0 0px #ff4081;
+        color: #fff;
+      }
+    }
+
+    /* Beautiful Instagram-like Wish Button */
+    #wish-btn {
+      position: relative;
+      left: 50%;
+      bottom: 2.5vw!important;
+      transform: translateX(-50%);
+      background: linear-gradient(90deg, #f58529 0%, #dd2a7b 50%, #8134af 100%);
+      color: #fff;
+      font-size: 1.4rem;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      font-weight: bold;
+      padding: 1rem 2.5rem;
+      border: none;
+      border-radius: 32px;
+      box-shadow: 0 4px 24px #ff4081aa, 0 0 12px #fff;
+      letter-spacing: 1px;
+      cursor: pointer;
+      outline: none;
+      z-index: 10000;
+      transition: box-shadow 0.2s, transform 0.2s, background 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.7em;
+      animation: wish-btn-pop 1.2s cubic-bezier(.68, -0.55, .27, 1.55);
+    }
+
+    #wish-btn:hover,
+    #wish-btn:focus {
+      box-shadow: 0 8px 32px #ff4081cc, 0 0 24px #fff;
+      transform: translateX(-50%) scale(1.05);
+      background: linear-gradient(90deg, #fdc800 0%, #f58529 50%, #dd2a7b 100%);
+    }
+
+    @keyframes wish-btn-pop {
+      0% {
+        transform: translateX(-50%) scale(0.7);
+        opacity: 0;
+      }
+
+      60% {
+        transform: translateX(-50%) scale(1.15);
+        opacity: 1;
+      }
+
+      80% {
+        transform: translateX(-50%) scale(0.95);
+      }
+
+      100% {
+        transform: translateX(-50%) scale(1);
+        opacity: 1;
+      }
+    }
+
+    @media (max-width: 600px) {
+      #wish-btn {
+        font-size: 1.1rem;
+        padding: 0.9rem 1.5rem;
+        border-radius: 24px;
+        width: 80vw;
+        max-width: 400px;
+        min-width: 180px;
+        box-shadow: 0 2px 16px #ff4081bb, 0 0 8px #fff;
+        display: flow-root;
+        margin-top: 160%;
+      }
+    }
+
+    #wish-btn .insta-icon {
+      width: 1.6em;
+      height: 1.6em;
+      display: inline-block;
+      vertical-align: middle;
+      filter: drop-shadow(0 0 6px #fff3);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="birthday-message">Happy Birthday Ankit!</div>
+  <div class="slideshow-container">
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/101.jpg" alt="Slide 1" />
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/102.jpg" alt="Slide 2" />
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/103.jpg" alt="Slide 3" />
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/104.jpg" alt="Slide 4" />
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/105.jpg" alt="Slide 5" />
+    <img class="slideshow-img"
+      src="https://raw.githubusercontent.com/MO-SushilM-41196/testupload/refs/heads/main/106.jpg" alt="Slide 6" />
+  </div>
+  <!-- Confetti Canvas -->
+  <canvas id="confetti"></canvas>
+  <!-- Background Music -->
+  <!-- Add this overlay/button just after <body> -->
+  <div id="audio-overlay" style="
+  position:fixed;top:0;left:0;width:100vw;height:100vh;z-index:9999;display:flex;
+  align-items:center;justify-content:center;flex-direction:column;">
+    <span style="color:#fff;font-size:2rem;text-shadow:0 2px 12px #ff4081;display:flex;align-items:center;gap:0.5em;">
+      <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="#fff" style="filter: drop-shadow(0 0 6px #ff4081);">
+        <path
+          d="M9 17.5a2.5 2.5 0 1 1-2-2.45V6.18a1 1 0 0 1 .76-.97l8-2A1 1 0 0 1 17 4v10.05a2.5 2.5 0 1 1-2 2.45V6.91l-6 1.5v7.64a2.5 2.5 0 1 1-2 2.45z" />
+      </svg>
+      Tap to Start the Birthday Music!
+      <svg width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="#fff" style="filter: drop-shadow(0 0 6px #ff4081);">
+        <path
+          d="M9 17.5a2.5 2.5 0 1 1-2-2.45V6.18a1 1 0 0 1 .76-.97l8-2A1 1 0 0 1 17 4v10.05a2.5 2.5 0 1 1-2 2.45V6.91l-6 1.5v7.64a2.5 2.5 0 1 1-2 2.45z" />
+      </svg>
+    </span>
+    <button
+      style="margin-top:2rem;padding:1rem 2rem;font-size:1.2rem;border-radius:12px;border:none;background:#fff;color:#ff4081;font-weight:bold;box-shadow:0 2px 12px #ff4081;">Play
+      Music</button>
+  </div>
+  <button id="wish-btn">Click Here To Wish!!</button>
+  <audio id="birthday-audio" loop autoplay>
+    <source src="https://s31.aconvert.com/convert/p3r68-cdx67/rcxme-uct9c.mp3" type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+  <script>
+    // Balloons
+    for (let i = 0; i < 20; i++) {
+      let balloon = document.createElement("div");
+      balloon.classList.add("balloon");
+      balloon.style.left = Math.random() * 100 + "vw";
+      balloon.style.animationDuration = 4 + Math.random() * 3 + "s";
+      balloon.style.background = `hsl(${Math.random() * 360}, 80%, 70%)`;
+      document.body.appendChild(balloon);
+    }
+    // Confetti Animation
+    const canvas = document.getElementById("confetti");
+    const ctx = canvas.getContext("2d");
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    const confetti = [];
+    for (let i = 0; i < 150; i++) {
+      confetti.push({
+        x: Math.random() * canvas.width,
+        y: Math.random() * canvas.height,
+        r: Math.random() * 6 + 2,
+        d: Math.random() * 5 + 2,
+        color: `hsl(${Math.random() * 360}, 100%, 50%)`,
+        tilt: Math.random() * 10 - 10,
+      });
+    }
+    function drawConfetti() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      confetti.forEach((c, i) => {
+        ctx.beginPath();
+        ctx.arc(c.x, c.y, c.r, 0, Math.PI * 2);
+        ctx.fillStyle = c.color;
+        ctx.fill();
+        c.y += c.d;
+        c.x += Math.sin(c.tilt);
+        if (c.y > canvas.height) {
+          c.y = 0;
+          c.x = Math.random() * canvas.width;
+        }
+      });
+      requestAnimationFrame(drawConfetti);
+    }
+    drawConfetti();
+    window.addEventListener("resize", () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    });
+  </script>
+  <script>
+    document.querySelector('#audio-overlay button').onclick = function () {
+      const audio = document.getElementById('birthday-audio');
+      audio.play();
+      document.getElementById('audio-overlay').style.display = 'none';
+    };
+    // Add to your <script> section (after DOM is loaded)
+    (function () {
+      const slides = document.querySelectorAll('.slideshow-img');
+      let idx = 0;
+      function showSlide(i) {
+        slides.forEach((img, j) => img.classList.toggle('active', i === j));
+      }
+      showSlide(idx);
+      setInterval(() => {
+        idx = (idx + 1) % slides.length;
+        showSlide(idx);
+      }, 2500);
+    })();
+
+    // Try to play audio directly after 1 second, fallback to button click if needed
+    window.addEventListener('DOMContentLoaded', function() {
+      setTimeout(function() {
+        var audio = document.getElementById('birthday-audio');
+        if (audio) {
+          var playPromise = audio.play();
+          if (playPromise !== undefined) {
+            playPromise.catch(function() {
+              // If direct play fails, try clicking the button (for iOS/Android restrictions)
+              var btn = document.querySelector('#audio-overlay button');
+              if(btn) btn.click();
+            });
+          }
+        }
+      }, 1000);
+    });
+
+    document.getElementById('wish-btn').onclick = function() {
+      var msg = encodeURIComponent('Happy Birthday Dear Ankit!!');
+      var phone = '+91 8356805085';
+      var url = 'https://wa.me/' + phone + '?text=' + msg;
+      window.open(url, '_blank');
+    };
+
+    // Add Instagram-like icon to the Wish button
+    var wishBtn = document.getElementById('wish-btn');
+    if (wishBtn && !wishBtn.querySelector('.insta-icon')) {
+      wishBtn.innerHTML = '<span class="insta-icon">\
+        <svg viewBox="0 0 448 512" fill="white" style="vertical-align:middle;">\
+          <defs>\
+            <radialGradient id="ig-gradient" cx="50%" cy="50%" r="80%">\
+              <stop offset="0%" stop-color="#f58529"/>\
+              <stop offset="50%" stop-color="#dd2a7b"/>\
+              <stop offset="100%" stop-color="#8134af"/>\
+            </radialGradient>\
+          </defs>\
+          <rect x="32" y="32" width="384" height="384" rx="80" fill="url(#ig-gradient)"/>\
+          <circle cx="224" cy="224" r="96" fill="#fff" fill-opacity="0.7"/>\
+          <circle cx="224" cy="224" r="72" fill="none" stroke="#fff" stroke-width="16"/>\
+          <circle cx="336" cy="112" r="24" fill="#fff"/>\
+        </svg>\
+        </span> <span>Click Here To Wish!!</span>';
+    }
+  </script>
+</body>
+
+</html>
