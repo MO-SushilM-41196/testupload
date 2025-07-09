@@ -174,7 +174,6 @@
       cursor: pointer;
       /* Existing styles preserved */
       transition: box-shadow 0.2s, background 0.2s, color 0.2s;
-      display: none;
     }
 
     #audio-overlay button::before {
@@ -324,7 +323,7 @@
     @media (max-width: 600px) {
       #audio-overlay {
         top: auto !important;
-        bottom: 66px !important;
+        bottom: 108px !important;
         left: 0 !important;
         width: 100vw !important;
         height: auto !important;
@@ -340,7 +339,6 @@
         z-index: 9999;
         position: fixed !important;
         transition: bottom 0.3s;
-        display: none !important;
       }
 
       #audio-overlay span {
@@ -354,6 +352,10 @@
         font-size: 1rem !important;
         padding: 0.8rem 1.5rem !important;
         border-radius: 10px !important;
+        width: 90vw;
+        max-width: 400px;
+        min-width: 180px;
+        box-shadow: 0 2px 16px #ff4081bb, 0 0 8px #fff;
       }
     }
 
@@ -504,13 +506,14 @@
           d="M9 17.5a2.5 2.5 0 1 1-2-2.45V6.18a1 1 0 0 1 .76-.97l8-2A1 1 0 0 1 17 4v10.05a2.5 2.5 0 1 1-2 2.45V6.91l-6 1.5v7.64a2.5 2.5 0 1 1-2 2.45z" />
       </svg>
     </span>
-    <button
-      style="margin-top:2rem;padding:1rem 2rem;font-size:1.2rem;border-radius:12px;border:none;background:#fff;color:#ff4081;font-weight:bold;box-shadow:0 2px 12px #ff4081;">Play
+    <button id="play-music-btn"
+      style="margin-top:2rem;padding:1rem 2rem;font-size:1.2rem;border-radius:12px;border:none;background:#fff;color:#ff4081;font-weight:bold;box-shadow:0 2px 12px #ff4081;cursor:pointer;">Play
       Music</button>
   </div>
   <button id="wish-btn">Click Here To Wish!!</button>
-  <audio id="birthday-audio" loop autoplay>
+  <audio>
     <source src="https://s31.aconvert.com/convert/p3r68-cdx67/rcxme-uct9c.mp3" type="audio/mpeg" />
+    <!-- <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" /> -->
     Your browser does not support the audio element.
   </audio>
   <script>
@@ -562,12 +565,6 @@
     });
   </script>
   <script>
-    document.querySelector('#audio-overlay button').onclick = function () {
-      const audio = document.getElementById('birthday-audio');
-      audio.play();
-      document.getElementById('audio-overlay').style.display = 'none';
-    };
-    // Add to your <script> section (after DOM is loaded)
     (function () {
       const slides = document.querySelectorAll('.slideshow-img');
       let idx = 0;
@@ -580,23 +577,6 @@
         showSlide(idx);
       }, 2500);
     })();
-
-    // Try to play audio directly after 1 second, fallback to button click if needed
-    window.addEventListener('DOMContentLoaded', function() {
-      setTimeout(function() {
-        var audio = document.getElementById('birthday-audio');
-        if (audio) {
-          var playPromise = audio.play();
-          if (playPromise !== undefined) {
-            playPromise.catch(function() {
-              // If direct play fails, try clicking the button (for iOS/Android restrictions)
-              var btn = document.querySelector('#audio-overlay button');
-              if(btn) btn.click();
-            });
-          }
-        }
-      }, 1000);
-    });
 
     document.getElementById('wish-btn').onclick = function() {
       var msg = encodeURIComponent('Happy Birthday Dear Ankit!!');
@@ -624,6 +604,15 @@
         </svg>\
         </span> <span>Click Here To Wish!!</span>';
     }
+
+    document.getElementById('play-music-btn').onclick = function () {
+      var audio = document.querySelector('audio');
+      if(audio) {
+        audio.currentTime = 0;
+        audio.play();
+      }
+      document.getElementById('audio-overlay').style.display = 'none';
+    };
   </script>
 </body>
 
